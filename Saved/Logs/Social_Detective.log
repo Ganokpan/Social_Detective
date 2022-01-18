@@ -2164,3 +2164,632 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.18-20.01.29:033][407]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level3_friendB9DB57754B20C231A2741FA497D111E6.tmp' to 'E:/Social_Detective/Content/Level/Level3_friend.umap'
 [2022.01.18-20.01.29:085][407]AssetCheck: New page: Asset Save: Level3_friend
 [2022.01.18-20.01.29:085][407]LogContentValidation: Display: Validating World /Game/Level/Level3_friend.Level3_friend
+[2022.01.18-20.02.03:406][699]LogAIModule: Creating AISystem for world Level1_home
+[2022.01.18-20.02.03:409][699]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.03:413][699]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.03:415][699]PIE: Warning: AttachTo: '/Game/Level/Level1_home.Level1_home:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level1_home.Level1_home:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.03:415][699]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level1_home.Level1_home
+[2022.01.18-20.02.03:458][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.01.18-20.02.03:461][699]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Level1_home.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.03:461][699]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.03:462][699]LoadErrors: New page: Loading map: Level1_home.umap
+[2022.01.18-20.02.03:463][699]LogWorld: UWorld::CleanupWorld for Level3_friend, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.03:464][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.03:464][699]MapCheck: New page: Map Check
+[2022.01.18-20.02.03:464][699]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.03:523][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.01.18-20.02.03:533][699]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.03:545][699]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.03:549][699]PIE: Warning: AttachTo: '/Game/Level/Level1_home.Level1_home:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level1_home.Level1_home:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.03:551][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.03:609][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.01.18-20.02.03:636][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.03:636][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2022.01.18-20.02.03:637][699]LogFileHelpers: Loading map 'Level1_home' took 0.177
+[2022.01.18-20.02.05:099][762]LogAIModule: Creating AISystem for world Level2_school
+[2022.01.18-20.02.05:100][762]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.05:101][762]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.05:102][762]PIE: Warning: AttachTo: '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.05:103][762]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level2_school.Level2_school
+[2022.01.18-20.02.05:133][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.01.18-20.02.05:135][762]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Level2_school.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.05:135][762]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.05:136][762]LoadErrors: New page: Loading map: Level2_school.umap
+[2022.01.18-20.02.05:136][762]LogWorld: UWorld::CleanupWorld for Level1_home, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.05:137][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.05:137][762]MapCheck: New page: Map Check
+[2022.01.18-20.02.05:137][762]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.05:172][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.01.18-20.02.05:174][762]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.05:176][762]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.05:177][762]PIE: Warning: AttachTo: '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.05:178][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.05:217][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.01.18-20.02.05:235][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.05:235][762]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2022.01.18-20.02.05:236][762]LogFileHelpers: Loading map 'Level2_school' took 0.101
+[2022.01.18-20.02.06:279][815]LogAIModule: Creating AISystem for world Level3_friend
+[2022.01.18-20.02.06:281][815]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.06:284][815]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.06:285][815]PIE: Warning: AttachTo: '/Game/Level/Level3_friend.Level3_friend:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level3_friend.Level3_friend:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.06:286][815]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level3_friend.Level3_friend
+[2022.01.18-20.02.06:316][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.01.18-20.02.06:317][815]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Level3_friend.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.06:317][815]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.06:318][815]LoadErrors: New page: Loading map: Level3_friend.umap
+[2022.01.18-20.02.06:319][815]LogWorld: UWorld::CleanupWorld for Level2_school, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.06:319][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.06:319][815]MapCheck: New page: Map Check
+[2022.01.18-20.02.06:319][815]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.06:356][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.01.18-20.02.06:360][815]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.06:364][815]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.06:365][815]PIE: Warning: AttachTo: '/Game/Level/Level3_friend.Level3_friend:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level3_friend.Level3_friend:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.06:366][815]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.06:404][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.01.18-20.02.06:420][815]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.06:420][815]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2022.01.18-20.02.06:420][815]LogFileHelpers: Loading map 'Level3_friend' took 0.104
+[2022.01.18-20.02.07:454][869]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_Trigger' that is not blueprint bindable for  ML (R) Trigger
+[2022.01.18-20.02.07:456][869]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_HomeButton' that is not blueprint bindable for  ML (R) Home Button
+[2022.01.18-20.02.07:456][869]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MotionController_Right_Trigger' which has been deprecated for  MotionController (R) Trigger
+[2022.01.18-20.02.07:533][869]LogAIModule: Creating AISystem for world Main
+[2022.01.18-20.02.07:535][869]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.07:536][869]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.07:538][869]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.07:539][869]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Main.Main
+[2022.01.18-20.02.07:573][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.01.18-20.02.07:574][869]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.07:574][869]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.07:575][869]LoadErrors: New page: Loading map: Main.umap
+[2022.01.18-20.02.07:576][869]LogWorld: UWorld::CleanupWorld for Level3_friend, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.07:576][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.07:576][869]MapCheck: New page: Map Check
+[2022.01.18-20.02.07:576][869]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.07:616][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.01.18-20.02.07:618][869]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.07:620][869]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.07:622][869]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.07:623][869]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.07:661][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.01.18-20.02.07:678][869]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.07:678][869]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2022.01.18-20.02.07:678][869]LogFileHelpers: Loading map 'Main' took 0.104
+[2022.01.18-20.02.08:577][917]LogAIModule: Creating AISystem for world Level4_policestation
+[2022.01.18-20.02.08:579][917]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.08:580][917]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.08:581][917]PIE: Warning: AttachTo: '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.08:582][917]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level4_policestation.Level4_policestation
+[2022.01.18-20.02.08:620][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.01.18-20.02.08:622][917]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Level4_policestation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.08:622][917]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.08:623][917]LoadErrors: New page: Loading map: Level4_policestation.umap
+[2022.01.18-20.02.08:623][917]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.08:623][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.08:623][917]MapCheck: New page: Map Check
+[2022.01.18-20.02.08:623][917]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.08:663][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.01.18-20.02.08:665][917]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.08:667][917]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.08:668][917]PIE: Warning: AttachTo: '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.08:669][917]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.08:708][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.01.18-20.02.08:726][917]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.08:726][917]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2022.01.18-20.02.08:726][917]LogFileHelpers: Loading map 'Level4_policestation' took 0.105
+[2022.01.18-20.02.10:891][ 40]LogAIModule: Creating AISystem for world Level0
+[2022.01.18-20.02.10:894][ 40]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.10:897][ 40]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.10:898][ 40]PIE: Warning: AttachTo: '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.10:899][ 40]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level0.Level0
+[2022.01.18-20.02.10:933][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.01.18-20.02.10:935][ 40]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.10:935][ 40]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.10:936][ 40]LoadErrors: New page: Loading map: Level0.umap
+[2022.01.18-20.02.10:936][ 40]LogWorld: UWorld::CleanupWorld for Level4_policestation, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.10:936][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.10:936][ 40]MapCheck: New page: Map Check
+[2022.01.18-20.02.10:936][ 40]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.10:977][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.01.18-20.02.10:982][ 40]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.10:986][ 40]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.10:987][ 40]PIE: Warning: AttachTo: '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.10:988][ 40]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.11:028][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.01.18-20.02.11:045][ 40]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.11:045][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2022.01.18-20.02.11:045][ 40]LogFileHelpers: Loading map 'Level0' took 0.111
+[2022.01.18-20.02.16:855][379]LogAIModule: Creating AISystem for world Main
+[2022.01.18-20.02.16:857][379]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.16:858][379]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.16:860][379]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.16:860][379]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Main.Main
+[2022.01.18-20.02.16:893][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.01.18-20.02.16:895][379]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.16:895][379]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.16:895][379]LoadErrors: New page: Loading map: Main.umap
+[2022.01.18-20.02.16:896][379]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.16:896][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.16:897][379]MapCheck: New page: Map Check
+[2022.01.18-20.02.16:897][379]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.16:939][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.18-20.02.16:941][379]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.16:943][379]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.16:944][379]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Main.Main:PersistentLevel.BP_ControlPointer_3.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.16:946][379]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.16:988][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.01.18-20.02.17:006][379]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.17:006][379]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2022.01.18-20.02.17:006][379]LogFileHelpers: Loading map 'Main' took 0.112
+[2022.01.18-20.02.21:009][613]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.18-20.02.23:057][731]LogSlate: Window 'Level0_BuiltData' being destroyed
+[2022.01.18-20.02.23:082][731]LogSlate: Window 'Level0_BuiltData' being destroyed
+[2022.01.18-20.02.24:128][789]LogAIModule: Creating AISystem for world Level0
+[2022.01.18-20.02.24:130][789]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.24:134][789]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.24:135][789]PIE: Warning: AttachTo: '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.24:136][789]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level0.Level0
+[2022.01.18-20.02.24:173][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.01.18-20.02.24:175][789]Cmd: MAP LOAD FILE="E:/Social_Detective/Content/Level/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-20.02.24:175][789]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.24:176][789]LoadErrors: New page: Loading map: Level0.umap
+[2022.01.18-20.02.24:176][789]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.02.24:177][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-20.02.24:177][789]MapCheck: New page: Map Check
+[2022.01.18-20.02.24:177][789]LightingResults: New page: Lighting Build
+[2022.01.18-20.02.24:219][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.01.18-20.02.24:223][789]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.24:228][789]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.18-20.02.24:229][789]PIE: Warning: AttachTo: '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level0.Level0:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.01.18-20.02.24:230][789]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-20.02.24:273][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.01.18-20.02.24:291][789]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-20.02.24:292][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2022.01.18-20.02.24:292][789]LogFileHelpers: Loading map 'Level0' took 0.118
+[2022.01.18-20.02.26:493][916]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Conan)
+[2022.01.18-20.02.27:530][975]Cmd: DELETE
+[2022.01.18-20.02.27:530][975]Cmd: ACTOR DELETE
+[2022.01.18-20.02.29:540][975]LogSlate: Window 'Message' being destroyed
+[2022.01.18-20.02.29:564][975]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.01.18-20.02.29:596][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.01.18-20.02.29:597][975]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.01.18-20.02.33:906][230]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.18-20.02.38:730][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.18-20.02.38:762][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.01.18-20.02.38:800][507]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level024814B4844A833A41ABDFA85E4D29F74.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.18-20.02.38:822][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.18-20.02.38:991][507]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData5637BAD442534F1ECC0987AF9A2ACC5C.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.18-20.02.39:030][507]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.18-20.02.39:030][507]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.18-20.02.39:030][507]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.18-20.02.45:699][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.18-20.02.45:735][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.01.18-20.02.45:774][901]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level005DB382447C37F86D5A7C09152422C8F.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.18-20.02.45:794][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.18-20.02.45:911][901]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData719F67C1470EB5D4331B9DB6B4C3A2D3.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.18-20.02.45:964][901]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.18-20.02.45:964][901]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.18-20.02.45:964][901]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.18-20.02.48:898][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.18-20.02.48:915][ 70]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0AD9B369043FF48A4CB7B0784322E9E03.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.18-20.02.48:973][ 70]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.18-20.02.48:973][ 70]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.18-20.04.00:033][233]LogEditorViewport: Clicking on Actor (LMB): BP_XRPawn_C (BP_XRPawn)
+[2022.01.18-20.04.00:888][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet_1B)
+[2022.01.18-20.04.07:492][593]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mom)
+[2022.01.18-20.04.19:300][218]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Male11)
+[2022.01.18-20.04.26:958][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.18-20.04.26:997][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.01.18-20.04.27:039][663]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level084AF0D4747D10415855645B93918922C.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.18-20.04.27:061][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.18-20.04.27:181][663]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData7ABF48E043F0AE86AA5E9589EAC78482.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.18-20.04.27:226][663]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.18-20.04.27:226][663]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.18-20.04.27:226][663]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.18-20.04.30:140][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.18-20.04.30:177][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.01.18-20.04.30:218][833]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0E374F0AC41039CA894AC70874E9C9F38.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.18-20.04.30:240][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.18-20.04.30:365][833]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData45D4762548E9D450CBFF00922B3BAE24.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.18-20.04.30:414][833]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.18-20.04.30:414][833]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.18-20.04.30:414][833]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.18-20.04.39:079][339]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Male11)
+[2022.01.18-20.04.57:535][332]EditorErrors: New page: Actor attachment
+[2022.01.18-20.05.06:259][840]EditorErrors: New page: Actor attachment
+[2022.01.18-20.05.08:916][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.18-20.05.08:933][993]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv04E77FEF846A2A6619391B7A4C6686DE3.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.18-20.05.08:977][993]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.18-20.05.08:977][993]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.18-20.05.39:937][820]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mom)
+[2022.01.18-20.05.41:947][936]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mom)
+[2022.01.18-20.05.49:434][371]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Conan)
+[2022.01.18-20.06.14:452][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.18-20.06.14:488][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.01.18-20.06.14:530][829]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0519C624E4B3664845B6449B6EC6EE0EE.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.18-20.06.14:554][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.18-20.06.14:685][829]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData86C881AC4D4F116B574E7A85E1C6F53B.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.18-20.06.14:738][829]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.18-20.06.14:738][829]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.18-20.06.14:738][829]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.18-20.06.18:499][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.01.18-20.06.19:523][ 49]LogSlate: Window 'Save Content' being destroyed
+[2022.01.18-20.06.19:610][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.18-20.06.19:620][ 49]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0CB111D604071B2EF80698B9751FD5237.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.18-20.06.19:720][ 49]LogSlate: Window 'Social_Detective - Unreal Editor' being destroyed
+[2022.01.18-20.06.20:064][ 49]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.18-20.06.20:064][ 49]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.18-20.06.20:066][ 50]Cmd: QUIT_EDITOR
+[2022.01.18-20.06.20:066][ 50]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.01.18-20.06.20:092][ 50]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.01.18-20.06.20:093][ 50]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.18-20.06.20:578][ 50]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.18-20.06.20:600][ 50]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.01.18-20.06.20:608][ 50]LogExit: Preparing to exit.
+[2022.01.18-20.06.20:962][ 50]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:962][ 50]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:963][ 50]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:963][ 50]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:963][ 50]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:963][ 50]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:963][ 50]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:980][ 50]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.01.18-20.06.20:988][ 50]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-20.06.20:988][ 50]LogExit: Editor shut down
+[2022.01.18-20.06.20:989][ 50]LogExit: Transaction tracking system shut down
+[2022.01.18-20.06.21:339][ 50]LogExit: Object subsystem successfully closed.
+[2022.01.18-20.06.21:381][ 50]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module PinnedCommandList (702)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module SkeletonEditor (700)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (698)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module Voice (696)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module MeshBuilder (694)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module SequencerWidgets (690)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (688)
+[2022.01.18-20.06.21:392][ 50]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module AddContentDialog (684)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module WidgetCarousel (683)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module EditorWidgets (680)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module CollectionManager (678)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (676)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module FoliageEdit (674)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module LandscapeEditor (672)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module MeshPaintMode (670)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (668)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module ActorPickerMode (666)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module GeometryMode (664)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module TextureAlignMode (662)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module BspMode (660)
+[2022.01.18-20.06.21:393][ 50]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (658)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (656)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module AutomationWorker (654)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module SteamVREditor (652)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module OculusMR (650)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (648)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (646)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (644)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module PlacementMode (643)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module MaterialEditor (642)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (638)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (636)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (634)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (632)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (630)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module WebMMedia (628)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (626)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (624)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module SequenceRecorder (623)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (620)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (618)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (616)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (614)
+[2022.01.18-20.06.21:394][ 50]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (612)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (610)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (608)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (606)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (604)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (602)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module CharacterAI (600)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module SmartSnapping (598)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module SessionServices (596)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module MeshPaint (594)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module ViewportSnapping (592)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module ViewportInteraction (590)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module ClothPainter (588)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (587)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module LogVisualizer (584)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module IntroTutorials (582)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (581)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (578)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (576)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (574)
+[2022.01.18-20.06.21:395][ 50]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (573)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (570)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (568)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (566)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (564)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (562)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (560)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module InputBindingEditor (558)
+[2022.01.18-20.06.22:674][ 50]LogModuleManager: Shutting down and abandoning module MergeActors (556)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (554)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module LocalizationService (553)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module HardwareTargeting (550)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (548)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module UndoHistory (546)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module XmlParser (544)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module Blutility (542)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (540)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (539)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (536)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module SettingsEditor (534)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module ProjectLauncher (532)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module SessionFrontend (530)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module ProfilerClient (528)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module DeviceManager (526)
+[2022.01.18-20.06.22:675][ 50]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (525)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module AutomationController (522)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module AutomationWindow (520)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module Layers (518)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (516)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module DetailCustomizations (514)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module PackagesDialog (512)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (510)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module Persona (508)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (507)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module AnimGraph (505)
+[2022.01.18-20.06.22:708][ 50]LogModuleManager: Shutting down and abandoning module Kismet (502)
+[2022.01.18-20.06.22:709][ 50]LogModuleManager: Shutting down and abandoning module KismetWidgets (501)
+[2022.01.18-20.06.22:709][ 50]LogModuleManager: Shutting down and abandoning module GraphEditor (498)
+[2022.01.18-20.06.22:709][ 50]LogModuleManager: Shutting down and abandoning module StructViewer (496)
+[2022.01.18-20.06.22:709][ 50]LogModuleManager: Shutting down and abandoning module ClassViewer (494)
+[2022.01.18-20.06.22:710][ 50]LogModuleManager: Shutting down and abandoning module Toolbox (492)
+[2022.01.18-20.06.22:710][ 50]LogModuleManager: Shutting down and abandoning module ModuleUI (490)
+[2022.01.18-20.06.22:710][ 50]LogModuleManager: Shutting down and abandoning module OutputLog (488)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module GammaUI (486)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module Documentation (484)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module ToolMenus (482)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module LiveCoding (480)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module LevelSequence (478)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (476)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module MovieScene (474)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (472)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module LauncherPlatform (470)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module AnalyticsET (468)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module PortalServices (466)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module PortalRpc (464)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module MessagingRpc (462)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module AIModule (460)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module GameplayDebugger (459)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module AITestSuite (457)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module NavigationSystem (455)
+[2022.01.18-20.06.22:711][ 50]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (452)
+[2022.01.18-20.06.22:715][ 50]LogModuleManager: Shutting down and abandoning module ProfilerService (450)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module TaskGraph (448)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module ScreenshotTools (446)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (444)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (442)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module OculusEditor (440)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module OculusInput (438)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (436)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module EditableMesh (434)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (432)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module CableComponent (430)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module AudioCapture (428)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (427)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module AssetTags (424)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (422)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (420)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module AppleImageUtils (418)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module AndroidPermission (416)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (414)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (412)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module MediaCompositing (410)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module ImgMedia (408)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (406)
+[2022.01.18-20.06.22:733][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (404)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (402)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (400)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapEditor (398)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (396)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (394)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (392)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module BackChannel (390)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (388)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module AutomationUtils (386)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module AlembicImporter (384)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module AlembicLibrary (383)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module GeometryCache (382)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (381)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (376)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (374)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (372)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module PluginBrowser (370)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (368)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (366)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module CurveEditorTools (364)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (362)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module CryptoKeys (360)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (358)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (356)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module UObjectPlugin (354)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (352)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (350)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (348)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module GitSourceControl (346)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module SourceControl (345)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (342)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (340)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (338)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (336)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (334)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (332)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (330)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module Paper2DEditor (328)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module SignificanceManager (326)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (324)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (322)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (318)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module ActorSequence (316)
+[2022.01.18-20.06.22:734][ 50]LogModuleManager: Shutting down and abandoning module UdpMessaging (314)
+[2022.01.18-20.06.22:836][ 50]LogModuleManager: Shutting down and abandoning module TcpMessaging (312)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (310)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (306)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (304)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (302)
+[2022.01.18-20.06.22:937][ 50]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (300)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (298)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (296)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapController (294)
+[2022.01.18-20.06.22:937][ 50]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.01.18-20.06.22:937][ 50]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (292)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapAR (290)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module AugmentedReality (289)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (286)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (284)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module FacialAnimation (282)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module DataValidation (280)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (278)
+[2022.01.18-20.06.22:937][ 50]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2022.01.18-20.06.22:938][ 50]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2022.01.18-20.06.22:938][ 50]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (274)
+[2022.01.18-20.06.22:938][ 50]LogModuleManager: Shutting down and abandoning module MainFrame (272)
+[2022.01.18-20.06.22:938][ 50]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2022.01.18-20.06.22:938][ 50]LogModuleManager: Shutting down and abandoning module ContentBrowser (267)
+[2022.01.18-20.06.22:939][ 50]LogModuleManager: Shutting down and abandoning module TreeMap (265)
+[2022.01.18-20.06.22:939][ 50]LogModuleManager: Shutting down and abandoning module AnimationSharing (262)
+[2022.01.18-20.06.22:939][ 50]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (260)
+[2022.01.18-20.06.22:939][ 50]LogModuleManager: Shutting down and abandoning module Paper2D (258)
+[2022.01.18-20.06.22:939][ 50]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (256)
+[2022.01.18-20.06.22:939][ 50]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (254)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (252)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module PacketHandler (250)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (248)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (246)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module MediaAssets (244)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module Overlay (242)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module OverlayEditor (241)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module VREditor (238)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module StringTableEditor (236)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (234)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (232)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module FunctionalTesting (230)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (228)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (227)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module UMG (224)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module UMGEditor (223)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (204)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (202)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module XAudio2 (200)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module Networking (198)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module Core (196)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneTools (194)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module CurveEditor (193)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module Sequencer (191)
+[2022.01.18-20.06.22:940][ 50]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (181)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2022.01.18-20.06.22:941][ 50]LogDerivedDataCache: Shutdown
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2022.01.18-20.06.22:941][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (129)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (127)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (125)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (123)
+[2022.01.18-20.06.22:942][ 50]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2022.01.18-20.06.22:943][ 50]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2022.01.18-20.06.22:943][ 50]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2022.01.18-20.06.22:943][ 50]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2022.01.18-20.06.22:944][ 50]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module VulkanRHI (108)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2022.01.18-20.06.22:951][ 50]LogHMD: Freeing OpenVRDLLHandle.
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2022.01.18-20.06.22:951][ 50]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2022.01.18-20.06.22:952][ 50]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2022.01.18-20.06.22:952][ 50]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2022.01.18-20.06.22:966][ 50]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2022.01.18-20.06.22:966][ 50]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.01.18-20.06.22:966][ 50]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2C305BB-4713-E47F-AEF7-AABC43895FF9%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.24.2-0%2Brelease-sdk-0.24.0-36bc4a8&UserID=34e8c563408b01aa57d47684c33568aa%7C4a2b9600ad1e4d039783348d6432aace%7Ce49b2579-8b25-4b7e-bed5-f4999b38d272&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2022.01.18-20.06.23:000][ 50]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2022.01.18-20.06.23:001][ 50]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2022.01.18-20.06.23:002][ 50]LogModuleManager: Shutting down and abandoning module Media (57)
+[2022.01.18-20.06.23:005][ 50]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2022.01.18-20.06.23:005][ 50]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2022.01.18-20.06.23:005][ 50]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.01.18-20.06.23:006][ 50]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.01.18-20.06.23:008][ 50]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.01.18-20.06.23:008][ 50]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.01.18-20.06.23:008][ 50]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.01.18-20.06.23:008][ 50]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.01.18-20.06.23:008][ 50]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.01.18-20.06.23:009][ 50]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.01.18-20.06.23:009][ 50]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.01.18-20.06.23:009][ 50]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.01.18-20.06.23:009][ 50]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.01.18-20.06.23:009][ 50]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.01.18-20.06.23:009][ 50]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.01.18-20.06.23:010][ 50]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.01.18-20.06.23:010][ 50]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.01.18-20.06.23:010][ 50]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.01.18-20.06.23:010][ 50]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.01.18-20.06.23:010][ 50]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.01.18-20.06.23:010][ 50]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.01.18-20.06.25:038][ 50]LogExit: Exiting.
+[2022.01.18-20.06.25:070][ 50]Log file closed, 01/19/22 03:06:25
