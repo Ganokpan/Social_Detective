@@ -1719,3 +1719,1160 @@ Script Stack (0 frames):
 [2022.01.19-19.57.02:467][626]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.19-19.57.02:467][626]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
 [2022.01.19-19.57.02:467][626]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-19.58.50:228][440]Cmd: TRANSACTION UNDO
+[2022.01.19-19.58.50:228][440]LogEditorTransaction: Undo Move Keys or Sections
+[2022.01.19-19.59.22:573][351]Cmd: TRANSACTION UNDO
+[2022.01.19-19.59.22:573][351]LogEditorTransaction: Undo Select None
+[2022.01.19-19.59.36:910][187]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-19.59.36:920][187]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-19.59.36:927][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-19.59.36:928][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-19.59.36:928][187]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 09:59:36)
+[2022.01.19-19.59.36:928][187]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-19.59.36:934][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005741s)
+[2022.01.19-19.59.36:935][187]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-19.59.36:935][187]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2022.01.19-19.59.36:935][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006720s)
+[2022.01.19-19.59.36:975][187]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.01.19-19.59.36:982][187]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-19.59.36:982][187]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-19.59.36:983][187]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-19.59.36:983][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-19.59.36:983][187]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-19.59.36:983][187]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-19.59.36:984][187]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-19.59.36:985][187]LogInit: FAudioDevice initialized.
+[2022.01.19-19.59.37:023][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-19.59.37:023][187]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-19.59.37:029][187]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-19.59.37:029][187]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-02.59.37
+[2022.01.19-19.59.37:029][187]LogWorld: Bringing up level for play took: 0.004836
+[2022.01.19-19.59.37:029][187]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.01.19-19.59.37:037][187]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 -0.284
+[2022.01.19-19.59.37:037][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-19.59.38:397][262]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-19.59.39:897][352]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-19.59.42:185][488]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-19.59.42:211][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-19.59.42:211][488]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-19.59.42:211][488]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-19.59.42:211][488]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-19.59.42:212][488]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-19.59.42:213][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-19.59.42:223][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-19.59.42:224][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-19.59.42:230][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-19.59.42:286][488]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-19.59.42:296][488]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.01.19-19.59.42:319][489]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.01.19-20.00.42:715][ 90]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.00.42:723][ 90]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.42:730][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.42:730][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.00.42:730][ 90]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:00:42)
+[2022.01.19-20.00.42:730][ 90]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.00.42:736][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006036s)
+[2022.01.19-20.00.42:737][ 90]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.00.42:737][ 90]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2022.01.19-20.00.42:737][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.007042s)
+[2022.01.19-20.00.42:788][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.01.19-20.00.42:793][ 90]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.42:793][ 90]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.42:794][ 90]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.00.42:794][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.00.42:794][ 90]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.00.42:794][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.00.42:795][ 90]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.00.42:796][ 90]LogInit: FAudioDevice initialized.
+[2022.01.19-20.00.42:836][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.00.42:836][ 90]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.00.42:842][ 90]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.00.42:842][ 90]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.00.42
+[2022.01.19-20.00.42:842][ 90]LogWorld: Bringing up level for play took: 0.004908
+[2022.01.19-20.00.42:842][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.01.19-20.00.42:850][ 90]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 -0.471
+[2022.01.19-20.00.42:850][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.44:205][167]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.00.45:707][257]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.00.47:206][347]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.00.50:948][571]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.00.50:974][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.50:974][571]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.00.50:974][571]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.00.50:974][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.00.50:975][571]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.00.50:975][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.00.50:985][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.00.50:986][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.50:994][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.00.51:049][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.00.51:059][571]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.01.19-20.00.51:082][572]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.01.19-20.00.52:960][682]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.00.52:969][682]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.52:975][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.52:975][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.00.52:975][682]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:00:52)
+[2022.01.19-20.00.52:975][682]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.00.52:981][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005769s)
+[2022.01.19-20.00.52:982][682]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.00.52:982][682]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2022.01.19-20.00.52:982][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006713s)
+[2022.01.19-20.00.53:029][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.01.19-20.00.53:030][682]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.53:030][682]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.53:030][682]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.00.53:030][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.00.53:030][682]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.00.53:030][682]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.00.53:031][682]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.00.53:032][682]LogInit: FAudioDevice initialized.
+[2022.01.19-20.00.53:061][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.00.53:062][682]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.00.53:066][682]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.00.53:066][682]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.00.53
+[2022.01.19-20.00.53:066][682]LogWorld: Bringing up level for play took: 0.003441
+[2022.01.19-20.00.53:066][682]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.01.19-20.00.53:073][682]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 -0.248
+[2022.01.19-20.00.53:073][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.54:453][761]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.00.55:956][851]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.00.57:461][912]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.00.59:238][ 18]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.00.59:266][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.59:266][ 18]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.00.59:266][ 18]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.00.59:266][ 18]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.00.59:267][ 18]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.00.59:267][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.00.59:276][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.00.59:277][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.00.59:284][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.00.59:338][ 18]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.00.59:348][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.01.19-20.00.59:376][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.01.19-20.01.18:586][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.01.18:635][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2022.01.19-20.01.18:954][157]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level003E8837A4C25F56F81C3E882134FE5BC.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.01.18:975][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.01.19:063][157]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData0DAB5AFA41D24151343F87B6D975B708.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.01.19:107][157]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.01.19:107][157]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.01.19:107][157]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.01.19:635][188]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.01.19:644][188]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.01.19:650][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.01.19:650][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.01.19:650][188]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:01:19)
+[2022.01.19-20.01.19:651][188]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.01.19:656][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005507s)
+[2022.01.19-20.01.19:657][188]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.01.19:657][188]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2022.01.19-20.01.19:657][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006405s)
+[2022.01.19-20.01.19:706][188]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.01.19-20.01.19:707][188]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.01.19:707][188]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.01.19:707][188]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.01.19:707][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.01.19:707][188]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.01.19:707][188]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.01.19:708][188]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.01.19:709][188]LogInit: FAudioDevice initialized.
+[2022.01.19-20.01.19:741][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.01.19:741][188]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.01.19:747][188]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.01.19:747][188]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.01.19
+[2022.01.19-20.01.19:747][188]LogWorld: Bringing up level for play took: 0.004976
+[2022.01.19-20.01.19:747][188]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.01.19-20.01.19:754][188]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 0.433
+[2022.01.19-20.01.19:754][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.01.21:132][265]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.01.22:632][355]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.01.24:133][445]LogBlueprintUserMessages: [SubtitlesManager_2] Hello
+[2022.01.19-20.01.31:185][867]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.01.31:215][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.01.31:215][867]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.01.31:216][867]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.01.31:216][867]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.01.31:216][867]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.01.31:217][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.01.31:230][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.01.31:230][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.01.31:238][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.01.31:294][867]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.01.31:304][867]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2022.01.19-20.01.31:326][868]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.01.19-20.01.46:925][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.01.46:971][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.01.19-20.01.47:286][794]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0B0245079410C2BF8DB2948AC5638B7BD.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.01.47:304][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.01.47:391][794]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData99CD87B9410CDFB424F971B3A0833207.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.01.47:436][794]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.01.47:437][794]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.01.47:437][794]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.04.17:466][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.04.17:513][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.01.19-20.04.17:785][ 65]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0C6EBC7684807C855FDB4239F56E7D73E.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.04.17:805][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.04.17:881][ 65]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData8C308B6543039D6B66A6E284D2FC8A7A.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.04.17:920][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.04.17:921][ 65]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.04.17:921][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.06.53:013][750]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.06.53:319][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2022.01.19-20.06.54:523][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.06.54:538][809]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerBFFC321B48A9BE3E2C23AC8E00EFB8CF.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.06.54:624][809]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.06.54:624][809]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.07.48:607][368]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.07.48:911][368]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.01.19-20.07.49:999][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.07.50:009][413]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerD7B3ABD041001AD5831D85A1D6733808.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.07.50:101][413]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.07.50:101][413]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.13.28:955][237]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.13.29:235][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.01.19-20.15.45:047][309]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.15.45:334][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2022.01.19-20.15.46:431][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.15.46:448][351]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerFA43D4084B141F2616657FA04A384B82.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.15.46:509][351]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.15.46:509][351]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.15.47:777][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.01.19-20.15.47:778][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Saved/Autosaves/Game/Level/Level0_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.19-20.15.48:054][417]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_Auto3AD9D8948420D71E1B818FCB964C1F285.tmp' to 'E:/Social_Detective/Saved/Autosaves/Game/Level/Level0_Auto3.umap'
+[2022.01.19-20.15.48:056][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level0' took 0.328
+[2022.01.19-20.15.48:056][417]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.328
+[2022.01.19-20.15.48:056][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CutScence/ScenceLv0] ([1] browsable assets)...
+[2022.01.19-20.15.48:056][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/CutScence/ScenceLv0]
+[2022.01.19-20.15.48:056][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Saved/Autosaves/Game/CutScence/ScenceLv0_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.01.19-20.15.48:073][417]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0_Auto31C79CE03436079353CBA11A7BA31ABBE.tmp' to 'E:/Social_Detective/Saved/Autosaves/Game/CutScence/ScenceLv0_Auto3.uasset'
+[2022.01.19-20.15.48:074][417]LogFileHelpers: Auto-saving content packages took 0.019
+[2022.01.19-20.17.19:062][351]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.17.19:347][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.01.19-20.17.19:933][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.17.19:947][371]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManager15B6A323463FCA33FF34908080F37F16.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.17.20:004][371]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.17.20:005][371]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.20.57:404][933]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.20.57:680][933]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2022.01.19-20.21.28:381][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.21.28:397][442]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManager4F9DF00F45624CCA5413AA885182E95C.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.21.28:446][442]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.21.28:446][442]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.23.01:167][438]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.23.01:453][438]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.01.19-20.23.02:410][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.23.02:425][478]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerB59522174CE684A97742F782D7FADB27.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.23.02:493][478]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.23.02:493][478]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.23.46:873][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/ShipComputerSubtitleList" FILE="E:/Social_Detective/Content/CutScence/Sub/ShipComputerSubtitleList.uasset" SILENT=true
+[2022.01.19-20.23.46:878][517]LogSavePackage: Moving 'E:/Social_Detective/Saved/ShipComputerSubtitleList1DE60CA344D7AFAD85608AB35DB84512.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/ShipComputerSubtitleList.uasset'
+[2022.01.19-20.23.46:945][517]AssetCheck: New page: Asset Save: ShipComputerSubtitleList
+[2022.01.19-20.23.46:945][517]LogContentValidation: Display: Validating DataTable /Game/CutScence/Sub/ShipComputerSubtitleList.ShipComputerSubtitleList
+[2022.01.19-20.23.49:806][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2022.01.19-20.23.49:888][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.23.49:935][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.01.19-20.23.50:199][648]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0D755B8924C7748751DCF43B268B5F6EB.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.23.50:216][648]LogFileHelpers: Saving map 'Level0' took 0.329
+[2022.01.19-20.23.50:217][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.23.50:232][648]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0EAF95F7E4CD6C231D8367E9FDCB146A1.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.23.50:275][648]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.23.50:275][648]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.23.50:275][648]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.25.11:495][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/ShipComputerSubtitleList" FILE="E:/Social_Detective/Content/CutScence/Sub/ShipComputerSubtitleList.uasset" SILENT=true
+[2022.01.19-20.25.11:500][ 47]LogSavePackage: Moving 'E:/Social_Detective/Saved/ShipComputerSubtitleListDFE8FB4B4DC0EBB8E13BE2A89F8F7573.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/ShipComputerSubtitleList.uasset'
+[2022.01.19-20.25.11:592][ 47]AssetCheck: New page: Asset Save: ShipComputerSubtitleList
+[2022.01.19-20.25.11:592][ 47]LogContentValidation: Display: Validating DataTable /Game/CutScence/Sub/ShipComputerSubtitleList.ShipComputerSubtitleList
+[2022.01.19-20.25.27:380][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.25.27:424][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.01.19-20.25.27:709][163]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0F6882C3448F70984F09847827183524D.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.25.27:732][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.25.27:815][163]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData6686AB7747103529762C20A3DBEF2604.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.25.27:855][163]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.25.27:855][163]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.25.27:856][163]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.25.29:708][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.01.19-20.28.24:913][689]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.28.25:238][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.01.19-20.28.26:572][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.28.26:590][754]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerEBBE8F0846B5E82DC0D466AE4A08D0A5.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.28.26:659][754]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.28.26:659][754]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.32.21:330][392]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.32.21:599][392]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.01.19-20.32.22:468][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.32.22:485][428]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManager2CD1C0A64197CD4D9697E894F25C13E9.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.32.22:538][428]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.32.22:539][428]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.33.11:846][328]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.33.12:135][328]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.01.19-20.33.12:977][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.33.12:997][363]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerFFA32CDA448155731A7B91B10FD9358E.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.33.13:053][363]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.33.13:054][363]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.33.56:919][726]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.33.57:194][726]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.01.19-20.33.58:005][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.33.58:027][756]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManagerFB6B664E4B69E6532B686C8F3D82CC77.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.33.58:074][756]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.33.58:074][756]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.34.47:495][791]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2022.01.19-20.35.43:863][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.01.19-20.35.43:866][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Saved/Autosaves/Game/Level/Level0_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.19-20.35.44:119][647]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_Auto468EA5E704F3D6AF0E9E70D8298157317.tmp' to 'E:/Social_Detective/Saved/Autosaves/Game/Level/Level0_Auto4.umap'
+[2022.01.19-20.35.44:479][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level0' took 0.660
+[2022.01.19-20.35.44:479][647]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.660
+[2022.01.19-20.35.44:480][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CutScence/ScenceLv0] ([1] browsable assets)...
+[2022.01.19-20.35.44:480][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/CutScence/ScenceLv0]
+[2022.01.19-20.35.44:480][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Saved/Autosaves/Game/CutScence/ScenceLv0_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.01.19-20.35.44:494][647]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0_Auto424CD39A442592C1F42BCC0878270AEE2.tmp' to 'E:/Social_Detective/Saved/Autosaves/Game/CutScence/ScenceLv0_Auto4.uasset'
+[2022.01.19-20.35.44:495][647]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.01.19-20.35.50:766][  7]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.19-20.35.50:766][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CutScence/ScenceLv0.ScenceLv0:SequenceDirector
+[2022.01.19-20.36.17:430][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.01.19-20.36.25:202][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.01.19-20.36.45:807][400]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.36.45:813][400]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.36.45:823][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.36.45:823][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.36.45:824][400]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:36:45)
+[2022.01.19-20.36.45:824][400]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.36.45:830][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005848s)
+[2022.01.19-20.36.45:830][400]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.36.45:831][400]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2022.01.19-20.36.45:831][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006941s)
+[2022.01.19-20.36.45:882][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.01.19-20.36.45:884][400]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.36.45:884][400]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.36.45:884][400]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.36.45:884][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.36.45:884][400]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.36.45:884][400]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.36.45:885][400]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.36.45:886][400]LogInit: FAudioDevice initialized.
+[2022.01.19-20.36.45:921][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.36.45:921][400]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.36.45:927][400]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.36.45:927][400]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.36.45
+[2022.01.19-20.36.45:928][400]LogWorld: Bringing up level for play took: 0.005348
+[2022.01.19-20.36.45:928][400]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.01.19-20.36.45:937][400]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 0.616
+[2022.01.19-20.36.45:937][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.36.47:299][478]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetDataTableRowNames_OutRowNames_1' of length 0 in '/Game/CutScence/Sub/SubtitlesManager.SubtitlesManager_C:ExecuteUbergraph_SubtitlesManager'!
+[2022.01.19-20.36.47:299][478]LogScript: Warning: Failed to resolve the table input. Be sure the DataTable is valid.
+	SubtitlesManager_C /Game/Level/UEDPIE_0_Level0.Level0:PersistentLevel.SubtitlesManager_2
+	Function /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager_C:ExecuteUbergraph_SubtitlesManager:033A
+[2022.01.19-20.36.47:299][478]PIE: Error: Blueprint Runtime Error: "Failed to resolve the table input. Be sure the DataTable is valid.". Blueprint:  SubtitlesManager Function:  Execute Ubergraph Subtitles Manager Graph:  EventGraph Node:  Get Data Table Row
+[2022.01.19-20.36.55:388][962]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.36.55:432][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.36.55:432][962]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.36.55:433][962]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.36.55:434][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.36.55:434][962]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.36.55:435][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.36.55:452][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.36.55:453][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.36.55:460][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.36.55:516][962]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.36.55:526][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.01.19-20.36.55:667][963]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.01.19-20.38.30:899][436]LogSlate: Window 'Message Log' being destroyed
+[2022.01.19-20.38.30:925][436]LogSlate: Window 'Message Log' being destroyed
+[2022.01.19-20.38.51:289][633]BlueprintLog: New page: Compile SubtitlesManager
+[2022.01.19-20.38.51:585][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.01.19-20.38.53:034][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/Sub/SubtitlesManager" FILE="E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset" SILENT=true
+[2022.01.19-20.38.53:053][710]LogSavePackage: Moving 'E:/Social_Detective/Saved/SubtitlesManager81BD505049BF29F438A311B6316D9E2F.tmp' to 'E:/Social_Detective/Content/CutScence/Sub/SubtitlesManager.uasset'
+[2022.01.19-20.38.53:097][710]AssetCheck: New page: Asset Save: SubtitlesManager
+[2022.01.19-20.38.53:097][710]LogContentValidation: Display: Validating Blueprint /Game/CutScence/Sub/SubtitlesManager.SubtitlesManager
+[2022.01.19-20.38.55:900][871]BlueprintLog: New page: Compile SequenceDirector
+[2022.01.19-20.38.55:953][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2022.01.19-20.39.16:888][  6]BlueprintLog: New page: Compile SequenceDirector
+[2022.01.19-20.39.16:941][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.01.19-20.39.18:713][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.39.18:727][108]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv009D15972429042C511C1E3B8DE4BFE6E.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.39.18:775][108]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.39.18:775][108]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.40.03:804][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.01.19-20.40.20:002][630]BlueprintLog: New page: Compile SequenceDirector
+[2022.01.19-20.40.20:320][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.01.19-20.40.21:100][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.40.21:116][672]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv062781CD5498CA93A4C2BAAB8CA47192E.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.40.21:167][672]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.40.21:167][672]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.41.22:906][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.01.19-20.42.38:693][875]BlueprintLog: New page: Compile SequenceDirector
+[2022.01.19-20.42.38:982][875]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.01.19-20.42.40:075][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.42.40:091][934]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0175412324B1F1DAFE4B644BD3A5B7D36.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.42.40:147][934]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.42.40:148][934]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.42.44:131][170]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.42.44:139][170]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.42.44:150][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.42.44:150][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.42.44:150][170]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:42:44)
+[2022.01.19-20.42.44:150][170]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.42.44:156][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005791s)
+[2022.01.19-20.42.44:157][170]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.42.44:157][170]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2022.01.19-20.42.44:157][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006849s)
+[2022.01.19-20.42.44:208][170]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.01.19-20.42.44:210][170]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.42.44:211][170]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.42.44:211][170]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.42.44:211][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.42.44:211][170]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.42.44:211][170]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.42.44:212][170]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.42.44:213][170]LogInit: FAudioDevice initialized.
+[2022.01.19-20.42.44:261][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.42.44:262][170]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.42.44:267][170]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.42.44:267][170]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.42.44
+[2022.01.19-20.42.44:267][170]LogWorld: Bringing up level for play took: 0.004550
+[2022.01.19-20.42.44:268][170]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.01.19-20.42.44:276][170]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 0.955
+[2022.01.19-20.42.44:276][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.42.56:512][784]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.42.56:538][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.42.56:538][784]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.42.56:539][784]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.42.56:539][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.42.56:539][784]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.42.56:540][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.42.56:555][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.42.56:556][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.42.56:563][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.42.56:619][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.42.56:629][784]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2022.01.19-20.42.56:658][785]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.01.19-20.43.22:729][462]BlueprintLog: New page: Compile SequenceDirector
+[2022.01.19-20.43.22:782][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.01.19-20.43.23:284][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.43.23:297][488]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0A56C918C47B1F56BF9D9728F41F373D3.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.43.23:343][488]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.43.23:343][488]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.43.26:021][646]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.43.26:029][646]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.43.26:042][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.43.26:042][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.43.26:042][646]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:43:26)
+[2022.01.19-20.43.26:042][646]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.43.26:048][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005876s)
+[2022.01.19-20.43.26:049][646]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.43.26:049][646]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2022.01.19-20.43.26:049][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006919s)
+[2022.01.19-20.43.26:099][646]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.01.19-20.43.26:100][646]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.43.26:100][646]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.43.26:100][646]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.43.26:100][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.43.26:100][646]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.43.26:100][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.43.26:100][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.43.26:100][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.43.26:101][646]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.43.26:101][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.43.26:101][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.43.26:101][646]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.43.26:101][646]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.43.26:102][646]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.43.26:103][646]LogInit: FAudioDevice initialized.
+[2022.01.19-20.43.26:149][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.43.26:149][646]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.43.26:154][646]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.43.26:154][646]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.43.26
+[2022.01.19-20.43.26:155][646]LogWorld: Bringing up level for play took: 0.004277
+[2022.01.19-20.43.26:155][646]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.01.19-20.43.26:162][646]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 0.841
+[2022.01.19-20.43.26:162][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.43.32:034][993]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.43.32:062][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.43.32:062][993]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.43.32:063][993]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.43.32:063][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.43.32:064][993]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.43.32:065][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.43.32:078][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.43.32:079][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.43.32:087][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.43.32:145][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.43.32:154][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.01.19-20.43.32:175][994]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.01.19-20.43.46:787][859]Cmd: TRANSACTION UNDO
+[2022.01.19-20.43.46:787][859]LogEditorTransaction: Undo Set Key Value
+[2022.01.19-20.44.04:209][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.44.04:233][879]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0C08CADBB459B6E3DFE1DA58AE06BD2B4.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.44.04:270][879]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.44.04:270][879]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.44.17:223][654]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.44.17:230][654]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.44.17:241][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.44.17:241][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.44.17:241][654]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:44:17)
+[2022.01.19-20.44.17:241][654]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.44.17:248][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006294s)
+[2022.01.19-20.44.17:249][654]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.44.17:249][654]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.01.19-20.44.17:249][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.007376s)
+[2022.01.19-20.44.17:302][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.01.19-20.44.17:304][654]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.44.17:305][654]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.44.17:305][654]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.44.17:305][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.44.17:305][654]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.44.17:305][654]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.44.17:306][654]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.44.17:307][654]LogInit: FAudioDevice initialized.
+[2022.01.19-20.44.17:349][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.44.17:349][654]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.44.17:353][654]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.44.17:354][654]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.44.17
+[2022.01.19-20.44.17:354][654]LogWorld: Bringing up level for play took: 0.003827
+[2022.01.19-20.44.17:354][654]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.01.19-20.44.17:362][654]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 0.041
+[2022.01.19-20.44.17:363][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.44.23:063][987]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.44.23:094][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.44.23:094][987]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.44.23:094][987]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.44.23:094][987]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.44.23:095][987]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.44.23:096][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.44.23:106][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.44.23:107][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.44.23:116][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.44.23:180][987]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.44.23:190][987]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.01.19-20.44.23:214][988]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.01.19-20.45.10:693][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.01.19-20.45.25:762][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.01.19-20.45.31:302][123]Cmd: TRANSACTION UNDO
+[2022.01.19-20.45.31:303][123]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.01.19-20.45.31:827][141]Cmd: TRANSACTION UNDO
+[2022.01.19-20.45.31:827][141]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.01.19-20.45.41:683][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.01.19-20.45.55:074][432]BlueprintLog: New page: Compile SequenceDirector
+[2022.01.19-20.45.55:403][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.01.19-20.45.56:023][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.45.56:040][458]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv08C519A45486A1B63934A56AC20A8702E.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.45.56:087][458]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.45.56:087][458]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.45.58:639][605]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.45.58:649][605]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.45.58:660][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.45.58:660][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.45.58:660][605]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:45:58)
+[2022.01.19-20.45.58:660][605]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.45.58:666][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005567s)
+[2022.01.19-20.45.58:667][605]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.45.58:667][605]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2022.01.19-20.45.58:667][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.006515s)
+[2022.01.19-20.45.58:719][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.01.19-20.45.58:721][605]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.45.58:721][605]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.45.58:721][605]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.45.58:721][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.45.58:722][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.45.58:722][605]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.45.58:722][605]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.45.58:723][605]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.45.58:723][605]LogInit: FAudioDevice initialized.
+[2022.01.19-20.45.58:753][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.45.58:754][605]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.45.58:758][605]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.45.58:758][605]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.45.58
+[2022.01.19-20.45.58:758][605]LogWorld: Bringing up level for play took: 0.003866
+[2022.01.19-20.45.58:759][605]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.01.19-20.45.58:765][605]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 -0.556
+[2022.01.19-20.45.58:765][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.46.04:287][930]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.46.04:315][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.46.04:315][930]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.46.04:315][930]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.46.04:315][930]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.46.04:316][930]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.46.04:317][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.46.04:331][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.46.04:331][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.46.04:339][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.46.04:406][930]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.46.04:415][930]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2022.01.19-20.46.04:442][931]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.01.19-20.46.30:173][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.01.19-20.46.30:176][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Saved/Autosaves/Game/Level/Level0_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.19-20.46.30:464][ 48]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_Auto549A0570241D1C46C695B9EAF0E1A4ECF.tmp' to 'E:/Social_Detective/Saved/Autosaves/Game/Level/Level0_Auto5.umap'
+[2022.01.19-20.46.32:204][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level0' took 2.079
+[2022.01.19-20.46.32:204][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.079
+[2022.01.19-20.46.54:298][168]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.46.54:306][168]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.46.54:318][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.46.54:318][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.46.54:319][168]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:46:54)
+[2022.01.19-20.46.54:319][168]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.46.54:325][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006425s)
+[2022.01.19-20.46.54:326][168]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.46.54:326][168]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2022.01.19-20.46.54:326][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.007516s)
+[2022.01.19-20.46.54:377][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.01.19-20.46.54:379][168]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.46.54:380][168]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.46.54:380][168]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.46.54:380][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.46.54:380][168]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.46.54:380][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.46.54:381][168]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.46.54:382][168]LogInit: FAudioDevice initialized.
+[2022.01.19-20.46.54:415][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.46.54:416][168]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.46.54:423][168]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.46.54:423][168]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.46.54
+[2022.01.19-20.46.54:423][168]LogWorld: Bringing up level for play took: 0.006238
+[2022.01.19-20.46.54:424][168]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.01.19-20.46.54:434][168]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 1.112
+[2022.01.19-20.46.54:434][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.47.07:614][951]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.47.07:641][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.47.07:641][951]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.47.07:642][951]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.47.07:642][951]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.47.07:642][951]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.47.07:643][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.47.07:653][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.47.07:654][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.47.07:663][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.47.07:717][951]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.47.07:726][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.01.19-20.47.07:750][952]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.01.19-20.47.09:286][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.47.09:334][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.01.19-20.47.09:605][ 28]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level099A56D3643E7D375AACB6C83A42E0F9D.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.47.09:628][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.47.09:723][ 28]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData1732394B45BD22CCBE347DA49554127F.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.47.09:764][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.47.09:764][ 28]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.47.09:764][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.48.38:975][520]LogSlate: Window 'SequenceDirector' being destroyed
+[2022.01.19-20.48.39:005][520]LogSlate: Window 'SequenceDirector' being destroyed
+[2022.01.19-20.48.39:008][520]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.48.39:008][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.48.39:026][520]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.48.39:026][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.48.39:071][520]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.48.39:071][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.48.39:154][520]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.48.39:154][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.48.40:240][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.48.40:323][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.01.19-20.48.40:579][560]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level06383670F4A70386A867D17AE977502BE.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.48.40:596][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.48.40:672][560]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltDataF6C90AF74F48607F57511985D1FF3E5C.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.48.40:710][560]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.48.40:710][560]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.48.40:710][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.48.51:159][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.48.51:230][180]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.01.19-20.48.51:443][180]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0B043A792407CCB9E03BFB3AC04E38F96.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.48.51:465][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.48.51:539][180]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltData69A895D449BE81E7DA0D62A34DF60383.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.48.51:574][180]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.48.51:574][180]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.48.51:574][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.49.08:783][204]LogTemp: Repeating last play command: VR Preview
+[2022.01.19-20.49.08:790][204]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.49.08:791][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.49.08:791][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-20.49.08:792][204]PIE: New page: PIE session: Level0 (20 ม.ค. 2565 10:49:08)
+[2022.01.19-20.49.08:792][204]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.49.08:799][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006770s)
+[2022.01.19-20.49.08:800][204]LogAIModule: Creating AISystem for world Level0
+[2022.01.19-20.49.08:800][204]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2022.01.19-20.49.08:800][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level0.Level0 to /Game/Level/UEDPIE_0_Level0.Level0 (0.008184s)
+[2022.01.19-20.49.08:837][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.01.19-20.49.08:841][204]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.49.08:841][204]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.49.08:842][204]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-20.49.08:842][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-20.49.08:842][204]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-20.49.08:842][204]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-20.49.08:843][204]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.01.19-20.49.08:845][204]LogInit: FAudioDevice initialized.
+[2022.01.19-20.49.08:879][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-20.49.08:880][204]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.01.19-20.49.08:886][204]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.01.19-20.49.08:887][204]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2022.01.20-03.49.08
+[2022.01.19-20.49.08:887][204]LogWorld: Bringing up level for play took: 0.006085
+[2022.01.19-20.49.08:887][204]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.01.19-20.49.08:894][204]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level0 -0.427
+[2022.01.19-20.49.08:894][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.49.17:038][686]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.01.19-20.49.17:064][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.49.17:065][686]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.49.17:065][686]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level0
+[2022.01.19-20.49.17:065][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.49.17:066][686]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.17:066][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.49.17:077][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-20.49.17:078][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Level/Level0.Level0_C' with ClassGeneratedBy '/Game/Level/Level0.Level0:PersistentLevel.Level0'
+[2022.01.19-20.49.17:083][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-20.49.17:118][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.49.17:125][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.01.19-20.49.17:146][687]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.01.19-20.49.18:756][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0" FILE="E:/Social_Detective/Content/Level/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.19-20.49.18:789][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.01.19-20.49.19:005][764]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0686FC2FD40D2EC3E4C784083C4E020E4.tmp' to 'E:/Social_Detective/Content/Level/Level0.umap'
+[2022.01.19-20.49.19:022][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level0_BuiltData" FILE="E:/Social_Detective/Content/Level/Level0_BuiltData.uasset" SILENT=true
+[2022.01.19-20.49.19:104][764]LogSavePackage: Moving 'E:/Social_Detective/Saved/Level0_BuiltDataD53A9AAD4FE55770EF752ABA300C9798.tmp' to 'E:/Social_Detective/Content/Level/Level0_BuiltData.uasset'
+[2022.01.19-20.49.19:142][764]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-20.49.19:142][764]LogContentValidation: Display: Validating World /Game/Level/Level0.Level0
+[2022.01.19-20.49.19:142][764]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level0_BuiltData.Level0_BuiltData
+[2022.01.19-20.49.23:038][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.01.19-20.49.23:092][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/ScenceLv0" FILE="E:/Social_Detective/Content/CutScence/ScenceLv0.uasset" SILENT=true
+[2022.01.19-20.49.23:107][875]LogSavePackage: Moving 'E:/Social_Detective/Saved/ScenceLv0DFB6C0BF4F9AB718D939D882503BBCD6.tmp' to 'E:/Social_Detective/Content/CutScence/ScenceLv0.uasset'
+[2022.01.19-20.49.23:151][875]AssetCheck: New page: Asset Save: ScenceLv0
+[2022.01.19-20.49.23:151][875]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/ScenceLv0.ScenceLv0
+[2022.01.19-20.49.24:088][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.01.19-20.49.24:121][930]LogSlate: Window 'Social_Detective - Unreal Editor' being destroyed
+[2022.01.19-20.49.24:302][931]Cmd: QUIT_EDITOR
+[2022.01.19-20.49.24:302][931]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.01.19-20.49.24:310][931]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.01.19-20.49.24:310][931]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.01.19-20.49.24:915][931]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.49.24:944][931]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.01.19-20.49.24:953][931]LogExit: Preparing to exit.
+[2022.01.19-20.49.25:619][931]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:621][931]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:622][931]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:623][931]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:625][931]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:626][931]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:651][931]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.01.19-20.49.25:666][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-20.49.25:666][931]LogExit: Editor shut down
+[2022.01.19-20.49.25:667][931]LogExit: Transaction tracking system shut down
+[2022.01.19-20.49.25:881][931]LogExit: Object subsystem successfully closed.
+[2022.01.19-20.49.25:922][931]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module DataTableEditor (700)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (698)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module Voice (696)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module SequencerWidgets (694)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module BlueprintGraph (692)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module StatsViewer (690)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (688)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module AddContentDialog (684)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module WidgetCarousel (683)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module EditorWidgets (680)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module CollectionManager (678)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (676)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module FoliageEdit (674)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module LandscapeEditor (672)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module MeshPaintMode (670)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (668)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module ActorPickerMode (666)
+[2022.01.19-20.49.25:935][931]LogModuleManager: Shutting down and abandoning module GeometryMode (664)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module TextureAlignMode (662)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module BspMode (660)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (658)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (656)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module AutomationWorker (654)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module SteamVREditor (652)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module OculusMR (650)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (648)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (646)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (644)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module PlacementMode (643)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MaterialEditor (642)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (638)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (636)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (634)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (632)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (630)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module WebMMedia (628)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (626)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (624)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module SequenceRecorder (623)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (620)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (618)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (616)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (614)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (612)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (610)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (608)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (606)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (604)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (602)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module CharacterAI (600)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module SmartSnapping (598)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module SessionServices (596)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module MeshPaint (594)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module ViewportSnapping (592)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module ViewportInteraction (590)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module ClothPainter (588)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (587)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module LogVisualizer (584)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module IntroTutorials (582)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (581)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (578)
+[2022.01.19-20.49.25:936][931]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (576)
+[2022.01.19-20.49.25:937][931]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (574)
+[2022.01.19-20.49.25:937][931]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (573)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (570)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (568)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (566)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (564)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (562)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (560)
+[2022.01.19-20.49.27:218][931]LogModuleManager: Shutting down and abandoning module InputBindingEditor (558)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module MergeActors (556)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (554)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module LocalizationService (553)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module HardwareTargeting (550)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (548)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module UndoHistory (546)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module XmlParser (544)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module Blutility (542)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (540)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (539)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (536)
+[2022.01.19-20.49.27:219][931]LogModuleManager: Shutting down and abandoning module SettingsEditor (534)
+[2022.01.19-20.49.27:220][931]LogModuleManager: Shutting down and abandoning module ProjectLauncher (532)
+[2022.01.19-20.49.27:220][931]LogModuleManager: Shutting down and abandoning module SessionFrontend (530)
+[2022.01.19-20.49.27:220][931]LogModuleManager: Shutting down and abandoning module ProfilerClient (528)
+[2022.01.19-20.49.27:220][931]LogModuleManager: Shutting down and abandoning module DeviceManager (526)
+[2022.01.19-20.49.27:220][931]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (525)
+[2022.01.19-20.49.27:253][931]LogModuleManager: Shutting down and abandoning module AutomationController (522)
+[2022.01.19-20.49.27:253][931]LogModuleManager: Shutting down and abandoning module AutomationWindow (520)
+[2022.01.19-20.49.27:253][931]LogModuleManager: Shutting down and abandoning module Layers (518)
+[2022.01.19-20.49.27:253][931]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (516)
+[2022.01.19-20.49.27:253][931]LogModuleManager: Shutting down and abandoning module DetailCustomizations (514)
+[2022.01.19-20.49.27:253][931]LogModuleManager: Shutting down and abandoning module PackagesDialog (512)
+[2022.01.19-20.49.27:254][931]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (510)
+[2022.01.19-20.49.27:254][931]LogModuleManager: Shutting down and abandoning module Persona (508)
+[2022.01.19-20.49.27:254][931]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (507)
+[2022.01.19-20.49.27:254][931]LogModuleManager: Shutting down and abandoning module AnimGraph (505)
+[2022.01.19-20.49.27:254][931]LogModuleManager: Shutting down and abandoning module Kismet (502)
+[2022.01.19-20.49.27:264][931]LogModuleManager: Shutting down and abandoning module KismetWidgets (501)
+[2022.01.19-20.49.27:264][931]LogModuleManager: Shutting down and abandoning module GraphEditor (498)
+[2022.01.19-20.49.27:264][931]LogModuleManager: Shutting down and abandoning module StructViewer (496)
+[2022.01.19-20.49.27:264][931]LogModuleManager: Shutting down and abandoning module ClassViewer (494)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module Toolbox (492)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module ModuleUI (490)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module OutputLog (488)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module GammaUI (486)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module Documentation (484)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module ToolMenus (482)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module LiveCoding (480)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module LevelSequence (478)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (476)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module MovieScene (474)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (472)
+[2022.01.19-20.49.27:266][931]LogModuleManager: Shutting down and abandoning module LauncherPlatform (470)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module AnalyticsET (468)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module PortalServices (466)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module PortalRpc (464)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module MessagingRpc (462)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module AIModule (460)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module GameplayDebugger (459)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module AITestSuite (457)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module NavigationSystem (455)
+[2022.01.19-20.49.27:267][931]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (452)
+[2022.01.19-20.49.27:270][931]LogModuleManager: Shutting down and abandoning module ProfilerService (450)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module TaskGraph (448)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module ScreenshotTools (446)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (444)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (442)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module OculusEditor (440)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module OculusInput (438)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (436)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module EditableMesh (434)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (432)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module CableComponent (430)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AudioCapture (428)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (427)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AssetTags (424)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (422)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (420)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AppleImageUtils (418)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AndroidPermission (416)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (414)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (412)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MediaCompositing (410)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module ImgMedia (408)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (406)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (404)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (402)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (400)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MagicLeapEditor (398)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (396)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (394)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (392)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module BackChannel (390)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (388)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AutomationUtils (386)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AlembicImporter (384)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module AlembicLibrary (383)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module GeometryCache (382)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (381)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (376)
+[2022.01.19-20.49.27:519][931]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (374)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (372)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module PluginBrowser (370)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (368)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (366)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module CurveEditorTools (364)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (362)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module CryptoKeys (360)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (358)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (356)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module UObjectPlugin (354)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (352)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (350)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (348)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module GitSourceControl (346)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module SourceControl (345)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (342)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (340)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (338)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (336)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (334)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (332)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (330)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module Paper2DEditor (328)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module SignificanceManager (326)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (324)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (322)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (318)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module ActorSequence (316)
+[2022.01.19-20.49.27:520][931]LogModuleManager: Shutting down and abandoning module UdpMessaging (314)
+[2022.01.19-20.49.27:622][931]LogModuleManager: Shutting down and abandoning module TcpMessaging (312)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (310)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (306)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (304)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (302)
+[2022.01.19-20.49.27:723][931]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (300)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (298)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (296)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapController (294)
+[2022.01.19-20.49.27:723][931]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.01.19-20.49.27:723][931]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (292)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module MagicLeapAR (290)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module AugmentedReality (289)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (286)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (284)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module FacialAnimation (282)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module DataValidation (280)
+[2022.01.19-20.49.27:723][931]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (278)
+[2022.01.19-20.49.27:724][931]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2022.01.19-20.49.27:724][931]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2022.01.19-20.49.27:724][931]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (274)
+[2022.01.19-20.49.27:725][931]LogModuleManager: Shutting down and abandoning module MainFrame (272)
+[2022.01.19-20.49.27:725][931]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2022.01.19-20.49.27:725][931]LogModuleManager: Shutting down and abandoning module ContentBrowser (267)
+[2022.01.19-20.49.27:727][931]LogModuleManager: Shutting down and abandoning module TreeMap (265)
+[2022.01.19-20.49.27:727][931]LogModuleManager: Shutting down and abandoning module AnimationSharing (262)
+[2022.01.19-20.49.27:727][931]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (260)
+[2022.01.19-20.49.27:727][931]LogModuleManager: Shutting down and abandoning module Paper2D (258)
+[2022.01.19-20.49.27:727][931]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (256)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (254)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (252)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module PacketHandler (250)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (248)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (246)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module MediaAssets (244)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module Overlay (242)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module OverlayEditor (241)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module VREditor (238)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module StringTableEditor (236)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (234)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (232)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module FunctionalTesting (230)
+[2022.01.19-20.49.27:729][931]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (228)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (227)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module UMG (224)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module UMGEditor (223)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (204)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (202)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module XAudio2 (200)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module Networking (198)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module Core (196)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module MovieSceneTools (194)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module CurveEditor (193)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module Sequencer (191)
+[2022.01.19-20.49.27:730][931]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2022.01.19-20.49.27:731][931]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2022.01.19-20.49.27:731][931]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2022.01.19-20.49.27:731][931]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2022.01.19-20.49.27:731][931]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2022.01.19-20.49.27:731][931]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (181)
+[2022.01.19-20.49.27:731][931]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2022.01.19-20.49.27:732][931]LogDerivedDataCache: Shutdown
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2022.01.19-20.49.27:732][931]LogXGEController: Cleaning working directory: C:/Users/ASUS/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (129)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (127)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (125)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (123)
+[2022.01.19-20.49.27:732][931]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2022.01.19-20.49.27:733][931]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2022.01.19-20.49.27:734][931]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2022.01.19-20.49.27:734][931]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2022.01.19-20.49.27:735][931]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2022.01.19-20.49.27:743][931]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module VulkanRHI (108)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2022.01.19-20.49.27:744][931]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2022.01.19-20.49.27:746][931]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2022.01.19-20.49.27:746][931]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2022.01.19-20.49.27:746][931]LogHMD: Freeing OpenVRDLLHandle.
+[2022.01.19-20.49.27:746][931]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2022.01.19-20.49.27:746][931]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2022.01.19-20.49.27:747][931]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.01.19-20.49.27:747][931]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2022.01.19-20.49.27:747][931]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2022.01.19-20.49.27:748][931]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2022.01.19-20.49.27:748][931]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2022.01.19-20.49.27:758][931]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2022.01.19-20.49.27:758][931]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.01.19-20.49.27:758][931]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCFB2A963-4D1A-A925-1989-378439C2B597%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.24.2-0%2Brelease-sdk-0.24.0-36bc4a8&UserID=34e8c563408b01aa57d47684c33568aa%7C4a2b9600ad1e4d039783348d6432aace%7Ce49b2579-8b25-4b7e-bed5-f4999b38d272&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2022.01.19-20.49.27:773][931]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2022.01.19-20.49.27:775][931]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2022.01.19-20.49.27:777][931]LogModuleManager: Shutting down and abandoning module Media (57)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.01.19-20.49.27:780][931]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.01.19-20.49.27:782][931]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.01.19-20.49.27:782][931]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.01.19-20.49.27:782][931]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.01.19-20.49.27:782][931]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.01.19-20.49.27:782][931]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.01.19-20.49.27:785][931]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.01.19-20.49.28:691][931]LogExit: Exiting.
+[2022.01.19-20.49.28:716][931]Log file closed, 01/20/22 03:49:28
