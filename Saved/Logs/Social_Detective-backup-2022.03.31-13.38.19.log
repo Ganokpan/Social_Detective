@@ -1,0 +1,1739 @@
+﻿Log file open, 03/31/22 03:20:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Social_Detective
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.070876
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundCueTemplates
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+LogMagicLeap: ML VDZI mode enabled. Using Vulkan renderer.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: release-sdk-0.24.0-36bc4a8-CL-0
+LogInit: Engine Version: 4.24.2-0+release-sdk-0.24.0-36bc4a8
+LogInit: Compatible Engine Version: 4.24.0-0+release-sdk-0.24.0-36bc4a8
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 27 2020 03:02:54
+LogInit: Compiled with Visual C++: 19.16.27034.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: release-sdk-0.24.0-36bc4a8
+LogInit: Command Line:  -vulkan  -audiomixer MagicLeapAudio 
+LogInit: Base Directory: E:/MagicLeapUE4Editor/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.30-20.20.03:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.30-20.20.03:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:487][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.30-20.20.03:489][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.03.30-20.20.03:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.03.30-20.20.03:490][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.30-20.20.03:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.30-20.20.03:492][  0]LogHAL: Display: Platform has ~ 24 GB [25617051648 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.30-20.20.03:492][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.30-20.20.03:492][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.30-20.20.03:492][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Social_Detective/Saved/Config/Windows/Scalability.ini]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.03.30-20.20.03:493][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.30-20.20.03:494][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.30-20.20.03:494][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.30-20.20.03:494][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:0]]
+[2022.03.30-20.20.03:494][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Social_Detective/Saved/Config/Windows/Engine.ini]
+[2022.03.30-20.20.03:494][  0]LogInit: Computer: LAPTOP-OP2MTRVJ
+[2022.03.30-20.20.03:494][  0]LogInit: User: ASUS
+[2022.03.30-20.20.03:494][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.30-20.20.03:494][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.30-20.20.03:494][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2022.03.30-20.20.03:494][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.30-20.20.03:494][  0]LogMemory: Process Physical Memory: 109.21 MB used, 109.21 MB peak
+[2022.03.30-20.20.03:494][  0]LogMemory: Process Virtual Memory: 103.29 MB used, 103.29 MB peak
+[2022.03.30-20.20.03:494][  0]LogMemory: Physical Memory: 6789.08 MB used,  17641.25 MB free, 24430.32 MB total
+[2022.03.30-20.20.03:494][  0]LogMemory: Virtual Memory: 5176.16 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2022.03.30-20.20.03:499][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.30-20.20.03:535][  0]LogInit: Using OS detected language (en-US).
+[2022.03.30-20.20.03:535][  0]LogInit: Using OS detected locale (th-TH).
+[2022.03.30-20.20.03:535][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.30-20.20.03:673][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.30-20.20.03:709][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.30-20.20.03:709][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_EOS_Overlay
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_NV_optimus
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_OBS_HOOK
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_VALVE_steam_fossilize
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_VALVE_steam_overlay
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_report
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_utils
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_direct_mode_display
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_swapchain_colorspace
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_device_group_creation
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_display
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_fence_capabilities
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_memory_capabilities
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_semaphore_capabilities
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_display_properties2
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_physical_device_properties2
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_surface_capabilities2
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface_protected_capabilities
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_win32_surface
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: - Found instance extension VK_NV_external_memory_capabilities
+[2022.03.30-20.20.03:980][  0]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: Not using instance layers
+[2022.03.30-20.20.03:980][  0]LogVulkanRHI: Display: Using instance extensions
+[2022.03.30-20.20.03:981][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2022.03.30-20.20.03:981][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2022.03.30-20.20.03:981][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_capabilities
+[2022.03.30-20.20.03:981][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_capabilities
+[2022.03.30-20.20.03:981][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2022.03.30-20.20.03:981][  0]LogVulkanRHI: Display: * VK_KHR_win32_surface
+[2022.03.30-20.20.04:000][  0]LogVulkanRHI: Display: Found 2 device(s)
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: Device 0: NVIDIA GeForce GTX 1050 Ti
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: - API 1.3.194(0x4030c2) Driver 0x7fd3c000 VendorId 0x10de
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: - DeviceID 0x1c8c Type Discrete GPU
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: - Device Properties driverName: NVIDIA
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: - Device Properties driverInfo: 511.79
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_NV_optimus
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_OBS_HOOK
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_4444_formats
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_blend_operation_advanced
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_border_color_swizzle
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_color_write_enable
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_custom_border_color
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_control
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_range_unrestricted
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_discard_rectangles
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state2
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_fragment_shader_interlock
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_full_screen_exclusive
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority_query
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_hdr_metadata
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_robustness
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_view_min_lod
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_load_store_op_none
+[2022.03.30-20.20.04:001][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_priority
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_multi_draw
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_cache_control
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_primitive_topology_list_restart
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_private_data
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_provoking_vertex
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_queue_family_foreign
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_robustness2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_image_atomic_int64
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_tooling_info
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_input_dynamic_state
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_2plane_444_formats
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_copy_commands2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dynamic_rendering
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_win32
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_win32
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_win32
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_format_feature_flags2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_global_priority
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance4
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_present_id
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_present_wait
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_integer_dot_product
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_non_semantic_info
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_terminate_invocation
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_synchronization2
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_win32_keyed_mutex
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_workgroup_memory_explicit_layout
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_zero_initialize_workgroup_memory
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_acquire_winrt_display
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_clip_space_w_scaling
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_coverage_reduction_mode
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation_image_aliasing
+[2022.03.30-20.20.04:002][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostic_checkpoints
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostics_config
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_generated_commands
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_external_memory
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_external_memory_win32
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fill_rectangle
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_coverage_to_color
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_framebuffer_mixed_samples
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_geometry_shader_passthrough
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_inherited_viewport_scissor
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_sample_mask_override_coverage
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_sm_builtins
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_subgroup_partitioned
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_array2
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_swizzle
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_win32_keyed_mutex
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_multiview_per_view_attributes
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: Device 1: Intel(R) UHD Graphics 630
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: - API 1.1.89(0x401059) Driver 0x19192e VendorId 0x8086
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: - DeviceID 0x3e9b Type Integrated GPU
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 8 Timestamps 1
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_NV_optimus
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_OBS_HOOK
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_stencil_export
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_win32
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_win32
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_win32
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: Using Device 0: Geometry 1 Tessellation 1
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: Found 3 Queue Families
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: Initializing Queue Family 0: 16 queues Gfx Compute Xfer Sparse
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: Initializing Queue Family 1: 2 queues Xfer Sparse
+[2022.03.30-20.20.04:003][  0]LogVulkanRHI: Display: Skipping unnecessary Queue Family 2: 8 queues Compute Xfer Sparse
+[2022.03.30-20.20.04:261][  0]LogVulkanRHI: Display: Using device layers
+[2022.03.30-20.20.04:261][  0]LogVulkanRHI: Display: Using device extensions
+[2022.03.30-20.20.04:261][  0]LogVulkanRHI: Display: * VK_KHR_external_memory
+[2022.03.30-20.20.04:261][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore
+[2022.03.30-20.20.04:261][  0]LogVulkanRHI: Display: * VK_KHR_external_fence
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_win32
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_win32
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_win32
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_driver_properties
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_bind_memory2
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_get_memory_requirements2
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_sampler_ycbcr_conversion
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_swapchain
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_maintenance1
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_KHR_maintenance2
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: * VK_EXT_memory_priority
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 3 Device Memory Heaps; Max memory allocations 4096
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 0: Flags 0x1 Size 4216324096 (4021.00 MB) GPU
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 1: Flags 0x0 Size 12808523776 (12215.16 MB) 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 2: Flags 0x1 Size 224395264 (214.00 MB) GPU
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 11 Device Memory Types (Not unified)
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 0: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 1: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 2: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 3: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 4: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 5: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 6: Flags 0x0 Heap 1 
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 7: Flags 0x1 Heap 0  Local
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 8: Flags 0x6 Heap 1  HostVisible HostCoherent
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 9: Flags 0xe Heap 1  HostVisible HostCoherent HostCached
+[2022.03.30-20.20.04:262][  0]LogVulkanRHI: Display: 10: Flags 0x7 Heap 2  Local HostVisible HostCoherent
+[2022.03.30-20.20.04:267][  0]LogVulkanRHI: Display: FVulkanPipelineStateCacheManager: Binary pipeline cache '../../../../Social_Detective/Saved/VulkanPSO.cache.10de.1c8c' not found.
+[2022.03.30-20.20.04:274][  0]LogVulkanRHI: Display: Nvidia User Driver Version = 511.79
+[2022.03.30-20.20.04:288][  0]LogRHI: Texture pool is 2816 MB (70% of 4023 MB)
+[2022.03.30-20.20.04:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.30-20.20.04:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.30-20.20.04:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.30-20.20.04:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.30-20.20.04:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.30-20.20.04:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.30-20.20.05:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.30-20.20.05:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.30-20.20.05:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.30-20.20.05:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.30-20.20.05:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.30-20.20.05:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.30-20.20.05:032][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.30-20.20.05:036][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.30-20.20.05:052][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../Social_Detective/Intermediate/Shaders/WorkingDirectory/11544/).
+[2022.03.30-20.20.05:052][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS/AppData/Local/Temp/UnrealShaderWorkingDir/DF7B08304273D99C668746B06EE90C27/'.
+[2022.03.30-20.20.05:053][  0]LogXGEController: Cleaning working directory: C:/Users/ASUS/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.30-20.20.05:053][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.30-20.20.05:053][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.30-20.20.05:053][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.30-20.20.05:642][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: Loaded boot cache 0.09s 150MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Social_Detective/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Social_Detective/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.30-20.20.05:736][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.30-20.20.05:737][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.30-20.20.05:737][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.30-20.20.05:737][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.30-20.20.05:779][  0]LogMaterial: Verifying Global Shaders for SF_VULKAN_SM5
+[2022.03.30-20.20.05:782][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.30-20.20.05:782][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.30-20.20.05:828][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.03.30-20.20.06:096][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.30-20.20.06:239][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.30-20.20.06:239][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.30-20.20.06:239][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.30-20.20.06:239][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.30-20.20.06:239][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.30-20.20.06:249][  0]LogNetVersion: Social_Detective 1.0.0, NetCL: 0, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1196748723)
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.06:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.06:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.07:197][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.058658 seconds
+[2022.03.30-20.20.07:204][  0]LogUObjectArray: 46808 objects as part of root set at end of initial load.
+[2022.03.30-20.20.07:204][  0]LogUObjectAllocator: 8145912 out of 0 bytes used by permanent object pool.
+[2022.03.30-20.20.07:204][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.30-20.20.07:831][  0]LogPackageName: SearchForPackageOnDisk took   0.063s, but failed to resolve -vulkan.umap.
+[2022.03.30-20.20.07:838][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.30-20.20.07:841][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.30-20.20.07:880][  0]SourceControl: Source control is disabled
+[2022.03.30-20.20.07:881][  0]SourceControl: Source control is disabled
+[2022.03.30-20.20.07:881][  0]SourceControl: Source control is disabled
+[2022.03.30-20.20.07:882][  0]SourceControl: Source control is disabled
+[2022.03.30-20.20.07:882][  0]SourceControl: Source control is disabled
+[2022.03.30-20.20.07:967][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.30-20.20.07:977][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.30-20.20.07:977][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.30-20.20.08:047][  0]LogOcInput: OculusInput pre-init called
+[2022.03.30-20.20.08:052][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.30-20.20.08:052][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.30-20.20.08:111][  0]LogEngine: Initializing Engine...
+[2022.03.30-20.20.08:112][  0]LogMagicLeap: Display: Creating FMagicLeapCustomPresentVulkan
+[2022.03.30-20.20.08:112][  0]LogMagicLeap: MagicLeap initialized.
+[2022.03.30-20.20.08:113][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.30-20.20.08:444][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.30-20.20.08:452][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.30-20.20.08:453][  0]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-20.20.08:453][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-20.20.08:453][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-20.20.08:453][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-20.20.08:454][  0]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.30-20.20.08:456][  0]LogInit: FAudioDevice initialized.
+[2022.03.30-20.20.08:456][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.30-20.20.08:619][  0]LogDerivedDataCache: Saved boot cache 0.16s 150MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.03.30-20.20.08:624][  0]LogInit: Texture streaming: Enabled
+[2022.03.30-20.20.08:631][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.30-20.20.08:631][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.30-20.20.08:633][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.30-20.20.08:638][  0]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.20.08:664][  0]LogInit: Transaction tracking system initialized
+[2022.03.30-20.20.08:672][  0]BlueprintLog: New page: Editor Load
+[2022.03.30-20.20.08:694][  0]LocalizationService: Localization service is disabled
+[2022.03.30-20.20.10:116][  0]LogFileCache: Scanning file cache for directory 'E:/Social_Detective/Content/' took 0.01s
+[2022.03.30-20.20.10:116][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.03.30-20.20.10:116][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.30-20.20.10:628][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:628][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:628][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:629][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:629][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:630][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.30-20.20.10:630][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.30-20.20.10:754][  0]SourceControl: Source control is disabled
+[2022.03.30-20.20.10:754][  0]Cmd: MAP LOAD FILE="../../../../Social_Detective/Content/Level/ScanRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.30-20.20.10:754][  0]LogEditorServer: Warning: Can't find file '../../../../Social_Detective/Content/Level/ScanRoom.umap'
+[2022.03.30-20.20.10:754][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.30-20.20.10:754][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2022.03.30-20.20.10:754][  0]LogFileHelpers: Loading map 'ScanRoom' took 0.000
+[2022.03.30-20.20.10:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.20.10:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.20.10:920][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.20.10:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.20.11:069][  0]LogCollectionManager: Loaded 0 collections in 0.140524 seconds
+[2022.03.30-20.20.11:080][  0]LogFileCache: Scanning file cache for directory 'E:/Social_Detective/Saved/Collections/' took 0.00s
+[2022.03.30-20.20.11:080][  0]LogFileCache: Scanning file cache for directory 'E:/Social_Detective/Content/Developers/ASUS/Collections/' took 0.00s
+[2022.03.30-20.20.11:080][  0]LogFileCache: Scanning file cache for directory 'E:/Social_Detective/Content/Collections/' took 0.00s
+[2022.03.30-20.20.11:080][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3028 classes and 725 folders.
+[2022.03.30-20.20.11:084][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.30-20.20.11:118][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.30-20.20.11:122][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: Found 4 Surface present modes:
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_KHR (2)
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_RELAXED_KHR (3)
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_MAILBOX_KHR (1)
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_IMMEDIATE_KHR (0)
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Display: Selected VkPresentModeKHR mode 0
+[2022.03.30-20.20.11:207][  0]LogVulkanRHI: Creating new VK swapchain with format 64, color space 0, num images 3
+[2022.03.30-20.20.11:317][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.30-20.20.11:321][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.30-20.20.11:326][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.30-20.20.11:405][  0]LogRenderer: Reallocating scene render targets to support 1176x580 Format 10 NumSamples 1 (Frame:1).
+[2022.03.30-20.20.11:742][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.30-20.20.11:742][  0]LogLoad: (Engine Initialization) Total time: 9.05 seconds
+[2022.03.30-20.20.11:742][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.30-20.20.11:811][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.30-20.20.11:857][  0]LogRenderer: Reallocating scene render targets to support 1176x592 Format 10 NumSamples 1 (Frame:2).
+[2022.03.30-20.20.11:857][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.30-20.20.11:867][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Social_Detective/Content/' took 0.10s
+[2022.03.30-20.20.11:891][  1]LogAssetRegistry: Asset discovery search completed in 6.0642 seconds
+[2022.03.30-20.20.11:895][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.03.30-20.20.12:971][ 65]LogSlate: Window 'Message Log' being destroyed
+[2022.03.30-20.20.12:996][ 65]LogSlate: Window 'Message Log' being destroyed
+[2022.03.30-20.20.22:143][605]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.30-20.20.22:252][605]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_Trackpad_Touch' that is not blueprint bindable for  ML (R) Trackpad Touch
+[2022.03.30-20.20.22:252][605]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_Trigger' that is not blueprint bindable for  ML (R) Trigger
+[2022.03.30-20.20.22:253][605]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_HomeButton' that is not blueprint bindable for  ML (R) Home Button
+[2022.03.30-20.20.22:253][605]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MotionController_Right_Trigger' which has been deprecated for  MotionController (R) Trigger
+[2022.03.30-20.20.22:366][605]LogBlueprint: Warning: [Compiler UI_objecttive_lv2] 'Clue 2' does not inherit from 'Player Controller' ( Cast To Clue2  would always fail).
+[2022.03.30-20.20.22:515][605]LogAIModule: Creating AISystem for world Level2_school
+[2022.03.30-20.20.22:523][605]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.20.22:523][605]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.30-20.20.22:523][605]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.30-20.20.22:523][605]LogMaterial: Display: Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial needed to have new flag set bUsedWithSplineMeshes !
+[2022.03.30-20.20.22:534][605]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2022.03.30-20.20.22:622][605]MapCheck: Warning: BasicShapeMaterial Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial was missing the usage flag bUsedWithSplineMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 64
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.03.30-20.20.22:649][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.03.30-20.20.22:680][605]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.20.22:682][605]PIE: Warning: AttachTo: '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.30-20.20.22:688][605]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level2_school.Level2_school
+[2022.03.30-20.20.22:738][605]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2022.03.30-20.20.22:741][605]Cmd: MAP LOAD FILE="../../../../Social_Detective/Content/Level/Level2_school.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.30-20.20.22:741][605]LightingResults: New page: Lighting Build
+[2022.03.30-20.20.22:742][605]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2022.03.30-20.20.22:745][605]LoadErrors: New page: Loading map: Level2_school.umap
+[2022.03.30-20.20.22:745][605]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.20.22:745][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.20.22:745][605]MapCheck: New page: Map Check
+[2022.03.30-20.20.22:745][605]LightingResults: New page: Lighting Build
+[2022.03.30-20.20.22:783][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.30-20.20.22:802][605]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.20.22:824][605]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.20.22:826][605]PIE: Warning: AttachTo: '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.30-20.20.23:025][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.30-20.20.23:066][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.03.30-20.20.23:104][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.30-20.20.23:105][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2022.03.30-20.20.23:105][605]LogFileHelpers: Loading map 'Level2_school' took 0.365
+[2022.03.30-20.20.24:537][657]LogSlate: Window 'Message Log' being destroyed
+[2022.03.30-20.20.24:571][657]LogSlate: Window 'Message Log' being destroyed
+[2022.03.30-20.20.33:477][135]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.03.30-20.20.33:515][137]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.03.30-20.20.33:515][137]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.03.30-20.20.33:608][142]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.03.30-20.20.52:691][509]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\soundTitle\School.wav)
+[2022.03.30-20.20.52:949][509]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave School...
+[2022.03.30-20.20.52:960][509]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/School.School will be modified from 40 to 40.
+[2022.03.30-20.20.58:684][509]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 57664008 while cooking SoundWave /Game/Sound/School.School.
+[2022.03.30-20.21.04:151][697]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\soundTitle\police.wav)
+[2022.03.30-20.21.09:747][697]LogSlate: Window 'Message' being destroyed
+[2022.03.30-20.21.09:962][697]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave police...
+[2022.03.30-20.21.09:973][697]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/police.police will be modified from 40 to 40.
+[2022.03.30-20.21.15:130][697]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 57657600 while cooking SoundWave /Game/Sound/police.police.
+[2022.03.30-20.21.36:909][956]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/PoliceSta.PoliceSta
+[2022.03.30-20.21.37:073][956]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.30-20.21.45:563][446]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/Start_Out.Start_Out
+[2022.03.30-20.21.47:670][560]LogSlate: Window 'Start_Out' being destroyed
+[2022.03.30-20.21.47:707][560]LogSlate: Window 'Start_Out' being destroyed
+[2022.03.30-20.21.50:041][693]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/PoliceSta.PoliceSta
+[2022.03.30-20.21.59:712][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/PoliceSta" FILE="../../../../Social_Detective/Content/Sound/PoliceSta.uasset" SILENT=true
+[2022.03.30-20.21.59:715][191]LogSavePackage: Moving '../../../../Social_Detective/Saved/PoliceSta8841192C4FF4FDA30B0034B69F917A7D.tmp' to '../../../../Social_Detective/Content/Sound/PoliceSta.uasset'
+[2022.03.30-20.21.59:768][191]AssetCheck: New page: Asset Save: PoliceSta
+[2022.03.30-20.21.59:768][191]LogContentValidation: Display: Validating SoundCue /Game/Sound/PoliceSta.PoliceSta
+[2022.03.30-20.22.07:372][599]LogSlate: Window 'PoliceSta' being destroyed
+[2022.03.30-20.22.07:404][599]LogSlate: Window 'PoliceSta' being destroyed
+[2022.03.30-20.22.13:851][975]Cmd: DELETE
+[2022.03.30-20.22.13:851][975]Cmd: ACTOR DELETE
+[2022.03.30-20.22.14:001][975]LogEditorActor: Deleted Actor: AmbientSound
+[2022.03.30-20.22.14:030][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.30-20.22.14:031][975]LogEditorActor: Deleted 1 Actors (0.180 secs)
+[2022.03.30-20.22.29:165][859]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/School_Out.School_Out
+[2022.03.30-20.22.43:714][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/School_Out" FILE="../../../../Social_Detective/Content/Sound/School_Out.uasset" SILENT=true
+[2022.03.30-20.22.43:717][699]LogSavePackage: Moving '../../../../Social_Detective/Saved/School_Out7E641D694BB6FF6427AB218772B082C4.tmp' to '../../../../Social_Detective/Content/Sound/School_Out.uasset'
+[2022.03.30-20.22.43:773][699]AssetCheck: New page: Asset Save: School_Out
+[2022.03.30-20.22.43:773][699]LogContentValidation: Display: Validating SoundCue /Game/Sound/School_Out.School_Out
+[2022.03.30-20.22.45:185][784]LogSlate: Window 'School_Out' being destroyed
+[2022.03.30-20.22.45:217][784]LogSlate: Window 'School_Out' being destroyed
+[2022.03.30-20.22.52:420][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level2_school" FILE="../../../../Social_Detective/Content/Level/Level2_school.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.30-20.22.52:452][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.30-20.22.52:591][202]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level2_schoolFC23E0874FB289439E551CB7FAF64511.tmp' to '../../../../Social_Detective/Content/Level/Level2_school.umap'
+[2022.03.30-20.22.52:613][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level2_school_BuiltData" FILE="../../../../Social_Detective/Content/Level/Level2_school_BuiltData.uasset" SILENT=true
+[2022.03.30-20.22.52:715][202]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level2_school_BuiltDataC9BCB3C44B39139B717888BFBE5BDC0A.tmp' to '../../../../Social_Detective/Content/Level/Level2_school_BuiltData.uasset'
+[2022.03.30-20.22.52:748][202]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.22.52:748][202]LogContentValidation: Display: Validating World /Game/Level/Level2_school.Level2_school
+[2022.03.30-20.22.52:748][202]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level2_school_BuiltData.Level2_school_BuiltData
+[2022.03.30-20.22.54:002][275]LogSlate: Took 0.002411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.30-20.22.54:002][275]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'จ (U+0e08)'
+[2022.03.30-20.22.54:008][275]LogSlate: Took 0.003347 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.03.30-20.22.59:331][507]LogBlueprint: Warning: [Compiler UI_objecttive_lv4] 'Clue 2' does not inherit from 'Player Controller' ( Cast To Clue2  would always fail).
+[2022.03.30-20.22.59:342][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:342][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:342][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:342][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:368][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:368][507]LoadErrors: Failed to load /Game/Model/low_poly_interior.low_poly_interior Referenced by low_poly_interior_furniture_low_poly_interior_128
+[2022.03.30-20.22.59:369][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:369][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:369][507]LogLinker: Warning: While loading '../../../../Social_Detective/Content/Model/Furniture/low_poly_interior_furniture_low_poly_interior_128.uasset' failed to load '/Game/Model/low_poly_interior': Can't find file.
+[2022.03.30-20.22.59:453][507]LogAIModule: Creating AISystem for world Level4_policestation
+[2022.03.30-20.22.59:458][507]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.22.59:466][507]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.22.59:467][507]PIE: Warning: AttachTo: '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.30-20.22.59:473][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level4_policestation.Level4_policestation
+[2022.03.30-20.22.59:507][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.03.30-20.23.00:833][507]LogSlate: Window 'Save Content' being destroyed
+[2022.03.30-20.23.00:925][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/police" FILE="../../../../Social_Detective/Content/Sound/police.uasset" SILENT=true
+[2022.03.30-20.23.01:470][507]LogSavePackage: Moving '../../../../Social_Detective/Saved/police8E01880A4B71DEB524B11B9EA325ED86.tmp' to '../../../../Social_Detective/Content/Sound/police.uasset'
+[2022.03.30-20.23.01:473][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/PoliceSta" FILE="../../../../Social_Detective/Content/Sound/PoliceSta.uasset" SILENT=true
+[2022.03.30-20.23.01:490][507]LogSavePackage: Moving '../../../../Social_Detective/Saved/PoliceSta3C32C1214D5852EED34AAE8A4D68F77C.tmp' to '../../../../Social_Detective/Content/Sound/PoliceSta.uasset'
+[2022.03.30-20.23.01:537][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/School" FILE="../../../../Social_Detective/Content/Sound/School.uasset" SILENT=true
+[2022.03.30-20.23.02:053][507]LogSavePackage: Moving '../../../../Social_Detective/Saved/School4471518E4966793EB1E145BC9B70CE04.tmp' to '../../../../Social_Detective/Content/Sound/School.uasset'
+[2022.03.30-20.23.02:054][507]Cmd: MAP LOAD FILE="../../../../Social_Detective/Content/Level/Level4_policestation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.30-20.23.02:055][507]LightingResults: New page: Lighting Build
+[2022.03.30-20.23.02:055][507]LoadErrors: New page: Loading map: Level4_policestation.umap
+[2022.03.30-20.23.02:057][507]LogWorld: UWorld::CleanupWorld for Level2_school, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.23.02:057][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.23.02:057][507]MapCheck: New page: Map Check
+[2022.03.30-20.23.02:057][507]LightingResults: New page: Lighting Build
+[2022.03.30-20.23.02:094][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.03.30-20.23.02:103][507]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.23.02:112][507]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.23.02:113][507]PIE: Warning: AttachTo: '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.30-20.23.02:219][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.30-20.23.02:253][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.30-20.23.02:274][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.30-20.23.02:274][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2022.03.30-20.23.02:274][507]LogFileHelpers: Loading map 'Level4_policestation' took 0.221
+[2022.03.30-20.23.02:371][507]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.23.02:371][507]LogContentValidation: Display: Validating SoundWave /Game/Sound/police.police
+[2022.03.30-20.23.02:371][507]LogContentValidation: Display: Validating SoundCue /Game/Sound/PoliceSta.PoliceSta
+[2022.03.30-20.23.02:371][507]LogContentValidation: Display: Validating SoundWave /Game/Sound/School.School
+[2022.03.30-20.23.16:692][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level4_policestation" FILE="../../../../Social_Detective/Content/Level/Level4_policestation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.30-20.23.16:725][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.30-20.23.16:879][342]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level4_policestation530FA7E64EBB4355230C0491B24413F0.tmp' to '../../../../Social_Detective/Content/Level/Level4_policestation.umap'
+[2022.03.30-20.23.16:902][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level4_policestation_BuiltData" FILE="../../../../Social_Detective/Content/Level/Level4_policestation_BuiltData.uasset" SILENT=true
+[2022.03.30-20.23.17:031][342]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level4_policestation_BuiltDataE45E62A94D2C7F2B3594D7AAEF3D5A1C.tmp' to '../../../../Social_Detective/Content/Level/Level4_policestation_BuiltData.uasset'
+[2022.03.30-20.23.17:064][342]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.23.17:064][342]LogContentValidation: Display: Validating World /Game/Level/Level4_policestation.Level4_policestation
+[2022.03.30-20.23.17:064][342]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level4_policestation_BuiltData.Level4_policestation_BuiltData
+[2022.03.30-20.23.18:227][412]LogTemp: Repeating last play command: VR Preview
+[2022.03.30-20.23.18:237][412]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.23.18:237][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.23.18:237][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-20.23.18:238][412]PIE: New page: PIE session: Level4_policestation (31 มี.ค. 2565 10:23:18)
+[2022.03.30-20.23.18:239][412]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.30-20.23.18:240][412]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.30-20.23.18:240][412]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level4_policestation
+[2022.03.30-20.23.18:247][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006448s)
+[2022.03.30-20.23.18:248][412]LogAIModule: Creating AISystem for world Level4_policestation
+[2022.03.30-20.23.18:248][412]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2022.03.30-20.23.18:248][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level4_policestation.Level4_policestation to /Game/Level/UEDPIE_0_Level4_policestation.Level4_policestation (0.007605s)
+[2022.03.30-20.23.18:281][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.03.30-20.23.18:282][412]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.23.18:282][412]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.23.18:282][412]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-20.23.18:282][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-20.23.18:282][412]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-20.23.18:282][412]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-20.23.18:283][412]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.30-20.23.18:284][412]LogInit: FAudioDevice initialized.
+[2022.03.30-20.23.18:318][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.23.18:319][412]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.03.30-20.23.18:326][412]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.23.18:327][412]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level4_policestation.Level4_policestation up for play (max tick rate 60) at 2022.03.31-03.23.18
+[2022.03.30-20.23.18:330][412]LogWorld: Bringing up level for play took: 0.007966
+[2022.03.30-20.23.18:330][412]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.03.30-20.23.18:333][412]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.30-20.23.18:343][412]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level4_policestation 0.004
+[2022.03.30-20.23.18:344][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.23.18:399][414]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.03.30-20.25.00:195][112]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.03.30-20.25.00:271][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.25.00:271][112]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.30-20.25.00:271][112]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level4_policestation
+[2022.03.30-20.25.00:271][112]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.25.00:273][112]LogWorld: UWorld::CleanupWorld for Level4_policestation, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.25.00:274][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.25.00:284][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-20.25.00:285][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.25.00:290][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.25.00:326][112]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.25.00:383][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.03.30-20.25.00:399][113]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.03.30-20.25.12:037][454]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CutScence/SequenceLv4.SequenceLv4
+[2022.03.30-20.25.12:449][459]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.187 s
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: 
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: Ensure condition failed: Layout == VK_IMAGE_LAYOUT_SHARED_PRESENT_KHR || Layout == VK_IMAGE_LAYOUT_DEPTH_READ_ONLY_STENCIL_ATTACHMENT_OPTIMAL || Layout == VK_IMAGE_LAYOUT_DEPTH_ATTACHMENT_STENCIL_READ_ONLY_OPTIMAL || Layout == VK_IMAGE_LAYOUT_DEPTH_STENCIL_READ_ONLY_OPTIMAL || Layout == VK_IMAGE_LAYOUT_SHADER_READ_ONLY_OPTIMAL || Layout == VK_IMAGE_LAYOUT_GENERAL [File:c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanDescriptorSets.h] [Line: 1103]
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: Invalid Layout 2, Index 1, Type 1
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: 
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: Stack: 
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: [Callstack] 0x00007ffefc7f1eea UE4Editor-VulkanRHI.dll!DispatchCheckVerify<bool,<lambda_1f6521be9b1a44e108ca311f79caea4e> >() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\public\misc\assertionmacros.h:167]
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: [Callstack] 0x00007ffefc75f0b7 UE4Editor-VulkanRHI.dll!FVulkanCommonPipelineDescriptorState::SetTexture() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanpipelinestate.h:71]
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: [Callstack] 0x00007ffefc757f2b UE4Editor-VulkanRHI.dll!FVulkanCommandListContext::RHISetShaderTexture() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkancommands.cpp:229]
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: [Callstack] 0x00007ffefd60c5c4 UE4Editor-SlateRHIRenderer.dll!FRHICommand<FRHICommandSetShaderTexture<FRHIPixelShader,0>,FRHICommandSetShaderTextureString>::ExecuteAndDestruct() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\public\rhicommandlist.h:726]
+[2022.03.30-20.25.12:449][459]LogOutputDevice: Error: [Callstack] 0x00007fff613ceff0 UE4Editor-RHI.dll!FRHICommandListExecutor::ExecuteInner_DoExecute() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\private\rhicommandlist.cpp:351]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff613b9c97 UE4Editor-RHI.dll!FExecuteRHIThreadTask::DoTask() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\private\rhicommandlist.cpp:410]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff613d0d06 UE4Editor-RHI.dll!TGraphTask<FExecuteRHIThreadTask>::ExecuteTask() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\public\async\taskgraphinterfaces.h:847]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff2d9da152 UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\async\taskgraph.cpp:686]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff2d9da4f3 UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\async\taskgraph.cpp:583]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff60f2e1e1 UE4Editor-RenderCore.dll!FRHIThread::Run() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rendercore\private\renderingthread.cpp:289]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff2de4e33f UE4Editor-Core.dll!FRunnableThreadWin::Run() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:96]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fff2de45551 UE4Editor-Core.dll!FRunnableThreadWin::GuardedRun() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:53]
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fffa8fd54e0 KERNEL32.DLL!UnknownFunction []
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: [Callstack] 0x00007fffaa42485b ntdll.dll!UnknownFunction []
+[2022.03.30-20.25.12:450][459]LogOutputDevice: Error: 
+[2022.03.30-20.25.12:450][459]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.30-20.25.14:359][459]LogStats:                    SendNewReport -  1.908 s
+[2022.03.30-20.25.14:359][459]LogStats:             FDebug::EnsureFailed -  2.095 s
+[2022.03.30-20.25.19:198][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level4_policestation" FILE="../../../../Social_Detective/Content/Level/Level4_policestation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.30-20.25.19:306][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.03.30-20.25.20:181][589]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level4_policestationA146015A4D370C357AA75DB358455282.tmp' to '../../../../Social_Detective/Content/Level/Level4_policestation.umap'
+[2022.03.30-20.25.20:210][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level4_policestation_BuiltData" FILE="../../../../Social_Detective/Content/Level/Level4_policestation_BuiltData.uasset" SILENT=true
+[2022.03.30-20.25.20:296][589]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level4_policestation_BuiltDataCB683EC447E0A68CEF8EE2A96FF69A77.tmp' to '../../../../Social_Detective/Content/Level/Level4_policestation_BuiltData.uasset'
+[2022.03.30-20.25.20:382][589]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.25.20:382][589]LogContentValidation: Display: Validating World /Game/Level/Level4_policestation.Level4_policestation
+[2022.03.30-20.25.20:382][589]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level4_policestation_BuiltData.Level4_policestation_BuiltData
+[2022.03.30-20.25.34:395][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_3B)
+[2022.03.30-20.25.36:316][ 58]LogEditorViewport: Clicking on Actor (LMB): Clue_lv4_3_C (Clue_lv4_3)
+[2022.03.30-20.25.41:729][220]LogEditorViewport: Clicking on Actor (LMB): Clue_lv4_3_C (Clue_lv4_3)
+[2022.03.30-20.26.11:576][ 94]LogTemp: Repeating last play command: VR Preview
+[2022.03.30-20.26.11:591][ 94]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.11:592][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.26.11:592][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-20.26.11:592][ 94]PIE: New page: PIE session: Level4_policestation (31 มี.ค. 2565 10:26:11)
+[2022.03.30-20.26.11:593][ 94]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level4_policestation
+[2022.03.30-20.26.11:603][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010037s)
+[2022.03.30-20.26.11:604][ 94]LogAIModule: Creating AISystem for world Level4_policestation
+[2022.03.30-20.26.11:605][ 94]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2022.03.30-20.26.11:605][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level4_policestation.Level4_policestation to /Game/Level/UEDPIE_0_Level4_policestation.Level4_policestation (0.011382s)
+[2022.03.30-20.26.11:639][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.30-20.26.11:640][ 94]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.11:640][ 94]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.11:641][ 94]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-20.26.11:641][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-20.26.11:641][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-20.26.11:641][ 94]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.30-20.26.11:643][ 94]LogInit: FAudioDevice initialized.
+[2022.03.30-20.26.11:683][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.26.11:684][ 94]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.03.30-20.26.11:691][ 94]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.26.11:692][ 94]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level4_policestation.Level4_policestation up for play (max tick rate 60) at 2022.03.31-03.26.11
+[2022.03.30-20.26.11:693][ 94]LogWorld: Bringing up level for play took: 0.006925
+[2022.03.30-20.26.11:693][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.30-20.26.11:741][ 94]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level4_policestation -0.598
+[2022.03.30-20.26.11:741][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.26.14:428][174]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.03.30-20.26.14:508][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.26.14:508][174]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.30-20.26.14:509][174]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level4_policestation
+[2022.03.30-20.26.14:510][174]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.03.30-20.26.14:527][174]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.03.30-20.26.14:528][174]LogWorld: UWorld::CleanupWorld for Level4_policestation, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.26.14:529][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.26.14:540][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-20.26.14:540][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation' with GeneratedClass '/Game/Level/Level4_policestation.Level4_policestation_C' with ClassGeneratedBy '/Game/Level/Level4_policestation.Level4_policestation:PersistentLevel.Level4_policestation'
+[2022.03.30-20.26.14:547][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.26.14:584][174]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.26.14:596][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.03.30-20.26.14:620][175]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.30-20.26.16:088][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level4_policestation" FILE="../../../../Social_Detective/Content/Level/Level4_policestation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.30-20.26.16:141][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.30-20.26.16:297][214]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level4_policestationFD6AF2B049A93B9A109704A55602D02C.tmp' to '../../../../Social_Detective/Content/Level/Level4_policestation.umap'
+[2022.03.30-20.26.16:325][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level4_policestation_BuiltData" FILE="../../../../Social_Detective/Content/Level/Level4_policestation_BuiltData.uasset" SILENT=true
+[2022.03.30-20.26.16:423][214]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level4_policestation_BuiltData076AAA4644975946750959B9531FD8BE.tmp' to '../../../../Social_Detective/Content/Level/Level4_policestation_BuiltData.uasset'
+[2022.03.30-20.26.16:503][214]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.26.16:503][214]LogContentValidation: Display: Validating World /Game/Level/Level4_policestation.Level4_policestation
+[2022.03.30-20.26.16:504][214]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level4_policestation_BuiltData.Level4_policestation_BuiltData
+[2022.03.30-20.26.26:219][502]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/Level/Level2_school_BuiltData.Level2_school_BuiltData
+[2022.03.30-20.26.28:017][551]LogSlate: Window 'Level2_school_BuiltData' being destroyed
+[2022.03.30-20.26.28:109][551]LogSlate: Window 'Level2_school_BuiltData' being destroyed
+[2022.03.30-20.26.29:492][585]LogAIModule: Creating AISystem for world Level2_school
+[2022.03.30-20.26.29:498][585]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.26.29:505][585]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.26.29:506][585]PIE: Warning: AttachTo: '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.30-20.26.29:507][585]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level2_school.Level2_school
+[2022.03.30-20.26.29:541][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.03.30-20.26.30:749][585]LogSlate: Window 'Save Content' being destroyed
+[2022.03.30-20.26.30:796][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/SequenceLv4" FILE="../../../../Social_Detective/Content/CutScence/SequenceLv4.uasset" SILENT=true
+[2022.03.30-20.26.30:811][585]LogSavePackage: Moving '../../../../Social_Detective/Saved/SequenceLv4F9349122482699833FF98BA4CB3C7472.tmp' to '../../../../Social_Detective/Content/CutScence/SequenceLv4.uasset'
+[2022.03.30-20.26.30:811][585]Cmd: MAP LOAD FILE="../../../../Social_Detective/Content/Level/Level2_school.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.30-20.26.30:812][585]LightingResults: New page: Lighting Build
+[2022.03.30-20.26.30:813][585]LoadErrors: New page: Loading map: Level2_school.umap
+[2022.03.30-20.26.30:873][585]LogWorld: UWorld::CleanupWorld for Level4_policestation, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.26.30:873][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.26.30:873][585]MapCheck: New page: Map Check
+[2022.03.30-20.26.30:873][585]LightingResults: New page: Lighting Build
+[2022.03.30-20.26.30:920][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.03.30-20.26.30:928][585]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.26.30:937][585]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.26.30:938][585]PIE: Warning: AttachTo: '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Level/Level2_school.Level2_school:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.30-20.26.31:089][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.30-20.26.31:127][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.03.30-20.26.31:147][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.30-20.26.31:147][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2022.03.30-20.26.31:147][585]LogFileHelpers: Loading map 'Level2_school' took 0.335
+[2022.03.30-20.26.31:271][585]AssetCheck: New page: Asset Save: SequenceLv4
+[2022.03.30-20.26.31:271][585]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/SequenceLv4.SequenceLv4
+[2022.03.30-20.26.33:693][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level2_school" FILE="../../../../Social_Detective/Content/Level/Level2_school.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.30-20.26.33:728][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.30-20.26.33:880][653]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level2_school77ABBB7F415A4F427BD49690743C951D.tmp' to '../../../../Social_Detective/Content/Level/Level2_school.umap'
+[2022.03.30-20.26.33:904][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level2_school_BuiltData" FILE="../../../../Social_Detective/Content/Level/Level2_school_BuiltData.uasset" SILENT=true
+[2022.03.30-20.26.34:002][653]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level2_school_BuiltData9663FD6E4101786E823FA7BB14CE48D4.tmp' to '../../../../Social_Detective/Content/Level/Level2_school_BuiltData.uasset'
+[2022.03.30-20.26.34:073][653]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.26.34:073][653]LogContentValidation: Display: Validating World /Game/Level/Level2_school.Level2_school
+[2022.03.30-20.26.34:073][653]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level2_school_BuiltData.Level2_school_BuiltData
+[2022.03.30-20.26.36:165][714]LogTemp: Repeating last play command: VR Preview
+[2022.03.30-20.26.36:180][714]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.36:181][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.26.36:181][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-20.26.36:181][714]PIE: New page: PIE session: Level2_school (31 มี.ค. 2565 10:26:36)
+[2022.03.30-20.26.36:181][714]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level2_school
+[2022.03.30-20.26.36:190][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008688s)
+[2022.03.30-20.26.36:191][714]LogAIModule: Creating AISystem for world Level2_school
+[2022.03.30-20.26.36:192][714]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2022.03.30-20.26.36:192][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level2_school.Level2_school to /Game/Level/UEDPIE_0_Level2_school.Level2_school (0.010254s)
+[2022.03.30-20.26.36:229][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.30-20.26.36:230][714]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.36:230][714]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.36:230][714]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-20.26.36:230][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-20.26.36:230][714]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-20.26.36:230][714]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-20.26.36:231][714]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.30-20.26.36:233][714]LogInit: FAudioDevice initialized.
+[2022.03.30-20.26.36:263][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.26.36:263][714]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.03.30-20.26.36:267][714]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.26.36:267][714]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level2_school.Level2_school up for play (max tick rate 60) at 2022.03.31-03.26.36
+[2022.03.30-20.26.36:267][714]LogWorld: Bringing up level for play took: 0.003107
+[2022.03.30-20.26.36:267][714]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.30-20.26.36:281][714]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level2_school -0.058
+[2022.03.30-20.26.36:281][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.26.38:424][759]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.03.30-20.26.38:532][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.26.38:532][759]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.30-20.26.38:533][759]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level2_school
+[2022.03.30-20.26.38:543][759]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.03.30-20.26.38:560][759]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.03.30-20.26.38:562][759]LogWorld: UWorld::CleanupWorld for Level2_school, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.26.38:564][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.26.38:584][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-20.26.38:584][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.26.38:593][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.26.38:729][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.26.38:754][759]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2022.03.30-20.26.38:792][760]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.30-20.26.47:998][ 31]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CutScence/SequenceLv2.SequenceLv2
+[2022.03.30-20.26.53:228][166]LogEditorViewport: Clicking on Actor (LMB): clue_lv2_1_C (clue_lv2_1)
+[2022.03.30-20.27.14:769][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level2_school" FILE="../../../../Social_Detective/Content/Level/Level2_school.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.30-20.27.14:828][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.30-20.27.15:026][789]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level2_schoolAD628A2C4260B466907F6FB762240B31.tmp' to '../../../../Social_Detective/Content/Level/Level2_school.umap'
+[2022.03.30-20.27.15:059][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level2_school_BuiltData" FILE="../../../../Social_Detective/Content/Level/Level2_school_BuiltData.uasset" SILENT=true
+[2022.03.30-20.27.15:122][789]LogSavePackage: Moving '../../../../Social_Detective/Saved/Level2_school_BuiltData5ACB781048BEBF6E8250D8B559B936BC.tmp' to '../../../../Social_Detective/Content/Level/Level2_school_BuiltData.uasset'
+[2022.03.30-20.27.15:231][789]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-20.27.15:231][789]LogContentValidation: Display: Validating World /Game/Level/Level2_school.Level2_school
+[2022.03.30-20.27.15:231][789]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level2_school_BuiltData.Level2_school_BuiltData
+[2022.03.30-20.27.17:313][851]LogTemp: Repeating last play command: VR Preview
+[2022.03.30-20.27.17:328][851]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.27.17:330][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.27.17:330][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-20.27.17:330][851]PIE: New page: PIE session: Level2_school (31 มี.ค. 2565 10:27:17)
+[2022.03.30-20.27.17:331][851]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level2_school
+[2022.03.30-20.27.17:340][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008720s)
+[2022.03.30-20.27.17:341][851]LogAIModule: Creating AISystem for world Level2_school
+[2022.03.30-20.27.17:342][851]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2022.03.30-20.27.17:342][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level2_school.Level2_school to /Game/Level/UEDPIE_0_Level2_school.Level2_school (0.010347s)
+[2022.03.30-20.27.17:381][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.03.30-20.27.17:383][851]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.27.17:383][851]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.27.17:383][851]LogLuminAPI: Display: Dll loaded: C:/Users/ASUS/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-20.27.17:383][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-20.27.17:383][851]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.30-20.27.17:383][851]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-20.27.17:384][851]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.30-20.27.17:385][851]LogInit: FAudioDevice initialized.
+[2022.03.30-20.27.17:439][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-20.27.17:440][851]LogLoad: Game class is 'Timer_gamemode_C'
+[2022.03.30-20.27.17:452][851]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.30-20.27.17:453][851]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level2_school.Level2_school up for play (max tick rate 60) at 2022.03.31-03.27.17
+[2022.03.30-20.27.17:453][851]LogWorld: Bringing up level for play took: 0.010338
+[2022.03.30-20.27.17:454][851]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.30-20.27.17:472][851]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level2_school 1.133
+[2022.03.30-20.27.17:473][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.28.58:703][876]LogSlate: Window 'Social_Detective Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.03.30-20.28.58:762][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.28.58:762][876]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.30-20.28.58:763][876]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Level2_school
+[2022.03.30-20.28.58:763][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.28.58:764][876]LogWorld: UWorld::CleanupWorld for Level2_school, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.28.58:766][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.28.58:782][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-20.28.58:783][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level2_school.Level2_school:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school' with GeneratedClass '/Game/Level/Level2_school.Level2_school_C' with ClassGeneratedBy '/Game/Level/Level2_school.Level2_school:PersistentLevel.Level2_school'
+[2022.03.30-20.28.58:792][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-20.28.58:838][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.28.58:884][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.03.30-20.28.58:903][877]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.30-20.28.59:544][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.30-20.29.00:611][897]LogSlate: Window 'Save Content' being destroyed
+[2022.03.30-20.29.00:811][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScence/SequenceLv2" FILE="../../../../Social_Detective/Content/CutScence/SequenceLv2.uasset" SILENT=true
+[2022.03.30-20.29.00:841][897]LogSavePackage: Moving '../../../../Social_Detective/Saved/SequenceLv2DE24041D40F81319B8FF06B36E057399.tmp' to '../../../../Social_Detective/Content/CutScence/SequenceLv2.uasset'
+[2022.03.30-20.29.01:041][897]LogSlate: Window 'Social_Detective - Unreal Editor' being destroyed
+[2022.03.30-20.29.01:252][897]AssetCheck: New page: Asset Save: SequenceLv2
+[2022.03.30-20.29.01:252][897]LogContentValidation: Display: Validating LevelSequence /Game/CutScence/SequenceLv2.SequenceLv2
+[2022.03.30-20.29.01:260][898]Cmd: QUIT_EDITOR
+[2022.03.30-20.29.01:260][898]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.30-20.29.01:271][898]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.30-20.29.01:271][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.30-20.29.01:934][898]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.30-20.29.01:980][898]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.03.30-20.29.01:992][898]LogExit: Preparing to exit.
+[2022.03.30-20.29.02:599][898]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.29.02:601][898]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.29.02:603][898]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.29.02:630][898]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.30-20.29.02:652][898]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-20.29.02:652][898]LogExit: Editor shut down
+[2022.03.30-20.29.02:652][898]LogExit: Transaction tracking system shut down
+[2022.03.30-20.29.03:003][898]LogExit: Object subsystem successfully closed.
+[2022.03.30-20.29.03:033][898]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module SequencerWidgets (698)
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (696)
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module Voice (694)
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (690)
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module SceneOutliner (688)
+[2022.03.30-20.29.03:064][898]LogModuleManager: Shutting down and abandoning module AddContentDialog (686)
+[2022.03.30-20.29.03:075][898]LogModuleManager: Shutting down and abandoning module WidgetCarousel (685)
+[2022.03.30-20.29.03:075][898]LogModuleManager: Shutting down and abandoning module EditorWidgets (682)
+[2022.03.30-20.29.03:075][898]LogModuleManager: Shutting down and abandoning module CollectionManager (680)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (678)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module FoliageEdit (676)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module LandscapeEditor (674)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module MeshPaintMode (672)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (670)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module ActorPickerMode (668)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module GeometryMode (666)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module TextureAlignMode (664)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module BspMode (662)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (660)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (658)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module AutomationWorker (656)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module SteamVREditor (654)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module OculusMR (652)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (650)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (648)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (646)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module PlacementMode (645)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module MaterialEditor (644)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (640)
+[2022.03.30-20.29.03:076][898]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (638)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (636)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (634)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (632)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module WebMMedia (630)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (628)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (626)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module SequenceRecorder (625)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (622)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (620)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (618)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (616)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (614)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (612)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (610)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (608)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (606)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (604)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module CharacterAI (602)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module SmartSnapping (600)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module SessionServices (598)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module MeshPaint (596)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module ViewportSnapping (594)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module ViewportInteraction (592)
+[2022.03.30-20.29.03:077][898]LogModuleManager: Shutting down and abandoning module ClothPainter (590)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (589)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module LogVisualizer (586)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module IntroTutorials (584)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (583)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (580)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (578)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (576)
+[2022.03.30-20.29.03:078][898]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (575)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (572)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (570)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (568)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (566)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (564)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (562)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module InputBindingEditor (560)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module MergeActors (558)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (556)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module LocalizationService (555)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module HardwareTargeting (552)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (550)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module UndoHistory (548)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module XmlParser (546)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module Blutility (544)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (542)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (541)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (538)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module SettingsEditor (536)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module ProjectLauncher (534)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module SessionFrontend (532)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module ProfilerClient (530)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module DeviceManager (528)
+[2022.03.30-20.29.04:412][898]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (527)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module AutomationController (524)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module AutomationWindow (522)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module Layers (520)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (518)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module DetailCustomizations (516)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module PackagesDialog (514)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (512)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module Persona (510)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (509)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module AnimGraph (507)
+[2022.03.30-20.29.04:446][898]LogModuleManager: Shutting down and abandoning module Kismet (504)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module KismetWidgets (503)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module GraphEditor (500)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module StructViewer (498)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module ClassViewer (496)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module Toolbox (494)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module ModuleUI (492)
+[2022.03.30-20.29.04:450][898]LogModuleManager: Shutting down and abandoning module OutputLog (490)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module GammaUI (488)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module Documentation (486)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module ToolMenus (484)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module LiveCoding (482)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module LevelSequence (480)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (478)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module MovieScene (476)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (474)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module LauncherPlatform (472)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module AnalyticsET (470)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module PortalServices (468)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module PortalRpc (466)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module MessagingRpc (464)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module AIModule (462)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module GameplayDebugger (461)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module AITestSuite (459)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module NavigationSystem (457)
+[2022.03.30-20.29.04:451][898]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (454)
+[2022.03.30-20.29.04:454][898]LogModuleManager: Shutting down and abandoning module ProfilerService (452)
+[2022.03.30-20.29.04:567][898]LogModuleManager: Shutting down and abandoning module TaskGraph (450)
+[2022.03.30-20.29.04:567][898]LogModuleManager: Shutting down and abandoning module ScreenshotTools (448)
+[2022.03.30-20.29.04:567][898]LogModuleManager: Shutting down and abandoning module SoundCueTemplates (446)
+[2022.03.30-20.29.04:567][898]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (444)
+[2022.03.30-20.29.04:567][898]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (442)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module OculusEditor (440)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module OculusInput (438)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (436)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module EditableMesh (434)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (432)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module CableComponent (430)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AudioCapture (428)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (427)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AssetTags (424)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (422)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (420)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AppleImageUtils (418)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AndroidPermission (416)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (414)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (412)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MediaCompositing (410)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module ImgMedia (408)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (406)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (404)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (402)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (400)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MagicLeapEditor (398)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (396)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (394)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (392)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module BackChannel (390)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (388)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AutomationUtils (386)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AlembicImporter (384)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AlembicLibrary (383)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module GeometryCache (382)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (381)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (376)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (374)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (372)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module PluginBrowser (370)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (368)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (366)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module CurveEditorTools (364)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (362)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module CryptoKeys (360)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (358)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (356)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module UObjectPlugin (354)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (352)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (350)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (348)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module GitSourceControl (346)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module SourceControl (345)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (342)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (340)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (338)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (336)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (334)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (332)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (330)
+[2022.03.30-20.29.04:568][898]LogModuleManager: Shutting down and abandoning module Paper2DEditor (328)
+[2022.03.30-20.29.04:569][898]LogModuleManager: Shutting down and abandoning module SignificanceManager (326)
+[2022.03.30-20.29.04:569][898]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (324)
+[2022.03.30-20.29.04:569][898]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (322)
+[2022.03.30-20.29.04:569][898]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (318)
+[2022.03.30-20.29.04:569][898]LogModuleManager: Shutting down and abandoning module ActorSequence (316)
+[2022.03.30-20.29.04:569][898]LogModuleManager: Shutting down and abandoning module UdpMessaging (314)
+[2022.03.30-20.29.04:670][898]LogModuleManager: Shutting down and abandoning module TcpMessaging (312)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (310)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (306)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (304)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (302)
+[2022.03.30-20.29.04:771][898]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (300)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (298)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (296)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapController (294)
+[2022.03.30-20.29.04:771][898]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.03.30-20.29.04:771][898]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (292)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module MagicLeapAR (290)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module AugmentedReality (289)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (286)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (284)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module FacialAnimation (282)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module DataValidation (280)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (278)
+[2022.03.30-20.29.04:771][898]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2022.03.30-20.29.04:772][898]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2022.03.30-20.29.04:772][898]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (274)
+[2022.03.30-20.29.04:772][898]LogModuleManager: Shutting down and abandoning module MainFrame (272)
+[2022.03.30-20.29.04:772][898]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2022.03.30-20.29.04:772][898]LogModuleManager: Shutting down and abandoning module ContentBrowser (267)
+[2022.03.30-20.29.04:773][898]LogModuleManager: Shutting down and abandoning module TreeMap (265)
+[2022.03.30-20.29.04:773][898]LogModuleManager: Shutting down and abandoning module AnimationSharing (262)
+[2022.03.30-20.29.04:773][898]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (260)
+[2022.03.30-20.29.04:773][898]LogModuleManager: Shutting down and abandoning module Paper2D (258)
+[2022.03.30-20.29.04:773][898]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (256)
+[2022.03.30-20.29.04:774][898]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (254)
+[2022.03.30-20.29.04:774][898]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (252)
+[2022.03.30-20.29.04:774][898]LogModuleManager: Shutting down and abandoning module PacketHandler (250)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (248)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (246)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module MediaAssets (244)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module Overlay (242)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module OverlayEditor (241)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module VREditor (238)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module StringTableEditor (236)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (234)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (232)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module FunctionalTesting (230)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (228)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (227)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module UMG (224)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module UMGEditor (223)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (204)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (202)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module XAudio2 (200)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module Networking (198)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module Core (196)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module MovieSceneTools (194)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module CurveEditor (193)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module Sequencer (191)
+[2022.03.30-20.29.04:775][898]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (181)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2022.03.30-20.29.04:776][898]LogDerivedDataCache: Shutdown
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2022.03.30-20.29.04:776][898]LogXGEController: Cleaning working directory: C:/Users/ASUS/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2022.03.30-20.29.04:776][898]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (129)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (127)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (125)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (123)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2022.03.30-20.29.04:777][898]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2022.03.30-20.29.04:778][898]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2022.03.30-20.29.04:778][898]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2022.03.30-20.29.04:779][898]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module VulkanRHI (108)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2022.03.30-20.29.04:785][898]LogHMD: Freeing OpenVRDLLHandle.
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2022.03.30-20.29.04:785][898]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2022.03.30-20.29.04:786][898]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2022.03.30-20.29.04:786][898]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2022.03.30-20.29.04:788][898]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2022.03.30-20.29.04:788][898]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.03.30-20.29.04:788][898]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2712EEDA-4998-DCDA-1FE4-00B4EB453B32%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.24.2-0%2Brelease-sdk-0.24.0-36bc4a8&UserID=34e8c563408b01aa57d47684c33568aa%7C4a2b9600ad1e4d039783348d6432aace%7Ce49b2579-8b25-4b7e-bed5-f4999b38d272&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2022.03.30-20.29.04:799][898]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2022.03.30-20.29.04:800][898]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2022.03.30-20.29.04:802][898]LogModuleManager: Shutting down and abandoning module Media (57)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.03.30-20.29.04:803][898]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.03.30-20.29.04:804][898]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.03.30-20.29.04:804][898]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.03.30-20.29.04:804][898]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.03.30-20.29.04:804][898]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.03.30-20.29.04:804][898]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.03.30-20.29.04:806][898]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.03.30-20.29.05:071][898]LogExit: Exiting.
+[2022.03.30-20.29.05:079][898]Log file closed, 03/31/22 03:29:05
